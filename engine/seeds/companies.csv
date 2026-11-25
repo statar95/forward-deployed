@@ -1,0 +1,255 @@
+slug,fetch_slug,name,ats_override,industries,source,notes,domain
+openai,,OpenAI,,horizontal,original,,openai.com
+anthropic,,Anthropic,,horizontal,original,,anthropic.com
+scaleai,,Scale AI,,horizontal,original,,scale.com
+palantir,,Palantir,,government|defence|healthcare|finance,original,,palantir.com
+databricks,,Databricks,,horizontal,original,,databricks.com
+cohere,,Cohere,,horizontal,original,,cohere.com
+mistral,mistral.ai,Mistral AI,ashby,horizontal,original,M1b: moved from Lever (0 roles) to Ashby mistral.ai,mistral.ai
+elevenlabs,,ElevenLabs,,horizontal,original,,elevenlabs.io
+synthesia,,Synthesia,,horizontal,original,,synthesia.io
+perplexity,,Perplexity,,horizontal,original,,perplexity.ai
+runwayml,runway-ml,Runway,ashby,horizontal,original,"M1b: Ashby ""runway"" is cfo.ai, not Runway",runway.com
+togetherai,,Together AI,,horizontal,original,,together.ai
+fireworksai,fireworks,Fireworks AI,ashby,horizontal,original,M1b: Greenhouse fireworksai now 404,fireworks.ai
+baseten,,Baseten,,horizontal,original,,baseten.co
+modal,,Modal,,horizontal,original,,modal.com
+anyscale,,Anyscale,,horizontal,original,,anyscale.com
+cognition,,Cognition,,horizontal,original,,cognition.com
+anysphere,cursor,Cursor (Anysphere),ashby,horizontal,original,M1b: hires as Cursor,cursor.com
+replit,,Replit,,horizontal,original,,replit.com
+sourcegraph,sourcegraph91,Sourcegraph,greenhouse,horizontal,original,M1b: slug taken from its own job links,sourcegraph.com
+factory,,Factory,,horizontal,original,factory.ai redirects here,factory.com
+poolside,,Poolside,,horizontal,original,,poolside.ai
+magic,magic.dev,Magic,ashby,horizontal,original,M1b: Greenhouse magic is an empty board; live board is Ashby magic.dev,magic.dev
+contextualai,,Contextual AI,none,horizontal,original,no board on any supported ATS after 4 slug variants,contextual.ai
+vectara,,Vectara,,horizontal,original,,vectara.co
+pinecone,,Pinecone,,horizontal,original,"pinecone.com is a parked domain for sale, not the company",pinecone.io
+weaviate,,Weaviate,,horizontal,original,,weaviate.io
+langchain,,LangChain,,horizontal,original,,langchain.com
+llamaindex,,LlamaIndex,,horizontal,original,,llamaindex.ai
+unstructured,,Unstructured,,horizontal,original,,unstructured.io
+reducto,,Reducto,,horizontal,original,,reducto.com
+extend,,Extend,,horizontal,original,,extend.ai
+instabase,,Instabase,,horizontal,original,sells mostly into banks and insurers; horizontal until checked,instabase.com
+hyperscience,,Hyperscience,,horizontal,original,sells mostly into government and insurance; horizontal until checked,hyperscience.ai
+rossum,,Rossum,none,horizontal,original,no board on any supported ATS after 4 slug variants,rossum.ai
+v7labs,,V7,none,horizontal,original,no board on any supported ATS after 4 slug variants,v7labs.com
+snorkelai,,Snorkel AI,,horizontal,original,,snorkel.ai
+labelbox,,Labelbox,,horizontal,original,,labelbox.com
+invisible,,Invisible Technologies,,horizontal,original,invisible.co redirects here,invisibletech.ai
+turing,,Turing,,horizontal,original,,turing.com
+mercor,,Mercor,,horizontal,original,,mercor.com
+handshake,,Handshake,,horizontal,original,FDE-type hiring is Handshake AI data work for AI labs,joinhandshake.com
+deepgram,,Deepgram,,horizontal,original,,deepgram.com
+assemblyai,,AssemblyAI,,horizontal,original,,assemblyai.com
+speechmatics,,Speechmatics,,horizontal,original,,speechmatics.com
+arize,arizeai,Arize AI,greenhouse,horizontal,original,,arize.com
+braintrust,,Braintrust,,horizontal,original,,braintrust.dev
+langfuse,,Langfuse,,horizontal,original,,langfuse.com
+humanloop,,Humanloop,none,horizontal,original,"team joined Anthropic Aug 2025, platform shut Sep 2025",humanloop.com
+patronusai,,Patronus AI,none,horizontal,original,"no board; Ashby ""patronus"" is Patronus Group (Berlin), a different company",patronus.ai
+galileo,,Galileo,,horizontal,original,,galileo.ai
+wandb,,Weights & Biases,none,horizontal,original,"acquired by CoreWeave 2025, roles now on the CoreWeave careers site",wandb.ai
+cleanlab,,Cleanlab,none,horizontal,original,no board on any supported ATS after 4 slug variants,cleanlab.ai
+crusoe,,Crusoe,,horizontal,original,,crusoe.ai
+lambda,,Lambda,,horizontal,original,,lambda.ai
+coreweave,,CoreWeave,,horizontal,original,,coreweave.com
+nscale,,Nscale,none,horizontal,original,no board on any supported ATS after 4 slug variants,nscale.com
+fluidstack,,Fluidstack,,horizontal,original,,fluidstack.com
+runpod,,RunPod,,horizontal,original,,runpod.io
+glean,gleanwork,Glean,greenhouse,horizontal,original,,glean.com
+decagon,,Decagon,,horizontal,original,,decagon.ai
+sierra,,Sierra,,horizontal,original,,sierra.ai
+writer,,Writer,,horizontal,original,,writer.com
+cresta,,Cresta,,horizontal,original,,cresta.com
+observeai,,Observe.AI,,horizontal,original,contact-centre AI across industries,observe.ai
+parloa,,Parloa,,horizontal,original,,parloa.com
+polyai,,PolyAI,,horizontal,original,,poly.ai
+lindy,,Lindy,none,horizontal,original,Ashby lindy returns 404 on the public API; no other variant found,lindy.ai
+relevanceai,,Relevance AI,,horizontal,original,,relevanceai.com
+ema,,Ema,,horizontal,original,,ema.ai
+stackai,stack-ai,Stack AI,ashby,horizontal,original,,stackai.com
+tennr,,Tennr,,healthcare,original,,tennr.com
+cleric,,Cleric,,horizontal,original,,cleric.ai
+wonderful,,Wonderful,,horizontal,original,,wonderful.ai
+magentic,,Magentic,,horizontal,original,not sure what it sells into; horizontal until checked,magentic.com
+solveai,,Solve AI,none,horizontal,original,no board on any supported ATS after 4 slug variants; not sure what it sells into; horizontal until checked,solve.ai
+seamflow,,Seamflow,,horizontal,original,not sure what it sells into; horizontal until checked,seamflow.com
+northslope,,Northslope,none,horizontal,original,no board on any supported ATS after 4 slug variants; consultancy of former Palantir staff; horizontal until checked,northslope.com
+11x,,11x,none,horizontal,original,no board on any supported ATS after 4 slug variants,11x.ai
+artisan,,Artisan,,horizontal,original,,artisan.co
+unify,,Unify,,horizontal,original,,unify.ai
+clay,,Clay,none,horizontal,original,Workable account exists but has 0 roles; no board on the other hosts (M1a),clay.com
+attio,,Attio,,horizontal,original,,attio.com
+hightouch,,Hightouch,,horizontal,original,,hightouch.com
+hex,hextechnologies,Hex,greenhouse,horizontal,original,M1b: Ashby hex emptied on 17 Sep; same 36 roles now on Greenhouse (links to hex.tech),hex.tech
+retool,,Retool,none,horizontal,original,no public ATS board after 4 variants (own careers site),retool.com
+vercel,,Vercel,,horizontal,original,,vercel.com
+supabase,,Supabase,,horizontal,original,,supabase.com
+ramp,,Ramp,,finance,original,,ramp.com
+rippling,,Rippling,none,horizontal,original,Workable account exists but has 0 roles; no board on the other hosts (M1a),rippling.com
+vanta,,Vanta,,horizontal,original,,vanta.com
+deel,,Deel,none,horizontal,original,Ashby board exists but has 0 roles; no board on the other hosts (M1a),deel.com
+harvey,,Harvey,,legal,original,,harvey.ai
+legora,,Legora,,legal,original,,legora.com
+luminance,,Luminance,none,legal,original,no board on any supported ATS after 4 slug variants,luminance.com
+robinai,,Robin AI,none,legal,original,"company collapsed late 2025 (distressed sale), no board found",robinai.com
+spellbook,,Spellbook,none,legal,original,no board on any supported ATS after 4 slug variants,spellbook.com
+eudia,,Eudia,,legal,original,,eudia.ai
+hebbia,hebbia-ai,Hebbia,ashby,finance,original,,hebbia.com
+rogo,,Rogo,,finance,original,,rogo.com
+basis,,Basis,,finance,original,,getbasis.ai
+auquan,,Auquan,none,finance,original,no board on any supported ATS after 4 slug variants,auquan.com
+abridge,,Abridge,,healthcare,original,,abridge.com
+ambience,ambiencehealthcare,Ambience Healthcare,ashby,healthcare,original,,ambiencehealthcare.com
+hippocraticai,,Hippocratic AI,none,healthcare,original,no board on any supported ATS after 4 slug variants,hippocraticai.com
+suki,,Suki,,healthcare,original,,suki.ai
+nabla,,Nabla,,healthcare,original,,nabla.com
+heidihealth,,Heidi Health,none,healthcare,original,no board on any supported ATS after 4 slug variants,heidihealth.com
+accurx,,Accurx,,healthcare,original,,accurx.com
+tandemhealth,tandem-health,Tandem Health,ashby,healthcare,original,,tandemhealth.ai
+buildots,,Buildots,none,construction,original,no board on any supported ATS after 4 slug variants,buildots.com
+doxel,,Doxel,,construction,original,,doxel.com
+trunktools,,Trunk Tools,none,construction,original,no board on any supported ATS after 4 slug variants,trunktools.com
+documentcrunch,,Document Crunch,none,construction,original,no board on any supported ATS after 4 slug variants,documentcrunch.com
+togal,togal-ai,Togal.AI,ashby,construction,original,,togal.ai
+disperse,,Disperse,none,construction,original,no board on any supported ATS after 4 slug variants,disperse.io
+planradar,,PlanRadar,,construction,original,,planradar.com
+fyld,,Fyld,none,energy|construction,original,no board on any supported ATS after 4 slug variants,fyld.com
+augury,,Augury,,manufacturing,original,,augury.com
+hadrian,,Hadrian,none,manufacturing|defence,original,no board on any supported ATS after 4 slug variants,hadrian.co
+helsing,,Helsing,,defence,original,,helsing.ai
+anduril,andurilindustries,Anduril,greenhouse,defence,original,,anduril.com
+shieldai,,Shield AI,,defence,original,,shieldai.dev
+vannevar,vannevarlabs,Vannevar Labs,greenhouse,government|defence,original,,vannevarlabs.com
+appliedintuition,applied,Applied Intuition,ashby,automotive|defence,seen_hiring,"ashby slug is 'applied'; the M1b research tried applied-intuition, appliedintuitionai and appliedintuitionhq and never the short form. 26 FDE-tier roles.",appliedintuition.com
+saronic,,Saronic,ashby,defence,original,,saronic.com
+tractable,,Tractable,,insurance|automotive,original,,tractable.com
+wayve,,Wayve,,automotive,original,,wayve.ai
+faculty,,Faculty,,horizontal,original,large UK government and NHS practice; horizontal until checked,faculty.ai
+quantexa,,Quantexa,,finance|government,original,,quantexa.com
+chainguard,,Chainguard,,horizontal,original,,chainguard.com
+snyk,,Snyk,,horizontal,original,,snyk.io
+abnormalsecurity,,Abnormal Security,,horizontal,original,,abnormal.ai
+torq,,Torq,,horizontal,original,,torq.io
+tines,,Tines,,horizontal,original,,tines.com
+luminai,,Luminai,ashby,healthcare|insurance,seen_hiring,automation for healthcare and insurance operations,luminai.com
+gigaml,,GigaML,ashby,horizontal,seen_hiring,,gigaml.ai
+assorthealth,,Assort Health,ashby,healthcare,seen_hiring,,assorthealth.com
+vapi,,Vapi,ashby,horizontal,seen_hiring,,vapi.ai
+kognitos,,Kognitos,ashby,horizontal,seen_hiring,finance operations automation; horizontal until checked,kognitos.com
+chalk,,Chalk,ashby,horizontal,seen_hiring,,chalk.ai
+zip,,Zip,ashby,horizontal,seen_hiring,,ziphq.com
+tavus,,Tavus,ashby,horizontal,seen_hiring,,tavus.io
+salient,,Salient,ashby,finance,seen_hiring,,trysalient.com
+planlab,,Planlab,none,construction,manual,no public ATS,planlab.ai
+handoff,,Handoff,lever,construction,seen_hiring,AI estimating for remodelers; Forward Deployed Engineer live,handoff.ai
+bobyard,,Bobyard,ashby,construction,seen_hiring,construction takeoff; Forward Deployed Engineer and Implementation Manager live,bobyard.com
+monumental,,Monumental,ashby,construction,seen_hiring,bricklaying robots; three deployment roles live,monumental.co
+higharc,,Higharc,ashby,construction|real-estate,seen_hiring,homebuilding design; Forward Deployed Engineer and PM live,higharc.com
+xyzreality,xyz-reality,XYZ Reality,ashby,construction,seen_hiring,AR on site; Project Delivery Manager Construction live,xyzreality.com
+builtrobotics,built-robotics,Built Robotics,ashby,construction,seen_hiring,autonomous heavy equipment; Robot Deployment Lead live,builtrobotics.com
+agave,,Agave,ashby,construction,seen_hiring,construction data API; Customer Solutions Engineer live,useagave.com
+fieldwire,,Fieldwire,greenhouse,construction,m3b_vertical,"field management, board live, no matching title this run",fieldwire.com
+openspacelabs,openspace,OpenSpace,greenhouse,construction,m3b_vertical,"site capture, board live, no matching title this run",openspace.ai
+kojo,,Kojo,ashby,construction,m3b_vertical,"materials procurement, board live",usekojo.com
+bildai,bild-ai,Bild AI,ashby,construction,m3b_vertical,"reads blueprints, board live",bild.ai
+adaptivebuild,adaptive,Adaptive,ashby,construction,m3b_vertical,"construction finance, board live",adaptive.build
+arini,,Arini,ashby,healthcare,watch_yc,"Winter 2024, 17 people, 2 jobs on board, 1 deployment titles (Forward Deployed Engineer); AI receptionist for dentists",arini.ai
+avallonai,avallon,Avallon AI,ashby,insurance,watch_yc,"Spring 2025, 7 people, 2 jobs on board, 1 deployment titles (Forward Deployed Engineer); AI agents for insurance claims operations",avallon.ai
+claimsorted,,ClaimSorted,ashby,insurance,watch_yc,"Summer 2024, 20 people, 16 jobs on board, 1 deployment titles (Forward Deployed Engineer); Making it easy for insurance companies to process claims",claimsorted.com
+clarion,,Clarion,ashby,healthcare,watch_yc,"Winter 2024, 16 people, 11 jobs on board, 2 deployment titles (Forward Deployed Engineer Deployment Strategist); The AI communication layer for health",clarionhealth.com
+comena,,Comena,ashby,logistics,watch_yc,"Summer 2025, 8 people, 6 jobs on board, 2 deployment titles (Forward Deployed Engineer Forward Deployed Engineering Lead); AI agents for distributors ",comena.ai
+fleetline,,Fleetline,ashby,logistics,watch_yc,"Summer 2025, 11 people, 3 jobs on board, 0 deployment titles (); Optimizing fleet planning with data driven algorithms",fleetline.ai
+furtherai,,FurtherAI,ashby,insurance,watch_yc,"Winter 2024, 36 people, 10 jobs on board, 1 deployment titles (Forward Deployed Engineer); AI Workforce for the Insurance Industry",furtherai.com
+harper,harperinsure,Harper,ashby,insurance,watch_yc,"Winter 2025, 25 people, 28 jobs on board, 1 deployment titles (Forward Deployed Operations); AI-native commercial insurance brokerage",harperinsure.com
+kastle,,Kastle,ashby,finance,watch_yc,"Summer 2024, 15 people, 13 jobs on board, 1 deployment titles (Forward Deployed Engineer); AI employee for consumer lending",kastle.ai
+parallel,beparallel,Parallel,ashby,healthcare,watch_yc,"Winter 2024, 15 people, 11 jobs on board, 2 deployment titles (Deployment Strategist Forward Deployed Engineer); AI agents for healthcare admin",beparallel.com
+pharos,,Pharos,ashby,healthcare,watch_yc,"Summer 2024, 5 people, 3 jobs on board, 0 deployment titles (); Helping hospitals identify and prevent avoidable harm using AI",pharos.health
+pivotrobotics,,Pivot Robotics,ashby,manufacturing,watch_yc,"Winter 2024, 8 people, 6 jobs on board, 0 deployment titles (); AI for Robot Arms in Factories",pivotrobotics.com
+sphinx,,Sphinx,ashby,finance,watch_yc,"Fall 2024, 14 people, 8 jobs on board, 1 deployment titles (Forward Deployed Engineer); AI Compliance Analysts for Banks & Fintechs",sphinxhq.com
+veritus,,Veritus,ashby,finance,watch_yc,"Summer 2025, 10 people, 2 jobs on board, 0 deployment titles (); AI agents for the consumer lending industry",veritus.com
+frontierhealth,frontier-health,Frontier Health,ashby,healthcare,seen_hiring,"FDE and Deployment Strategist, London; AI co-workers for healthcare admin",frontierhealth.ai
+condukt,,Condukt,ashby,finance,seen_hiring,FDE London and Porto; real-time identity and compliance; condukt.ai does not resolve; condukt.co is the live site,condukt.co
+porters,,Porters,ashby,finance,seen_hiring,"Product Engineer Zurich, Barcelona, Berlin; regulated back-office work for banks",porters.ai
+incidentio,incident,incident.io,ashby,horizontal,seen_hiring,Solutions Engineers London and SF; software reliability platform,incident.io
+laelaps,,Laelaps AI,ashby,horizontal,seen_hiring,FDE Zurich; field intelligence for physical security,laelaps.ai
+atira,,Atira,ashby,manufacturing,seen_hiring,"FDE and Deployment Strategist, Munich; agents for industrial sales engineers",atira.ai
+langdock,,Langdock,ashby,horizontal,seen_hiring,"Enterprise Deployments Engineer, Berlin",langdock.com
+kota,,Kota,ashby,insurance,seen_hiring,FDE Dublin; insurance and retirement benefits platform,kota.io
+happyrobot,happyrobot.ai,HappyRobot,ashby,logistics,seen_hiring,23 FDE-tier roles incl London and Madrid; AI workers for logistics. Ashby slug carries the dot,happyrobot.ai
+contextfab,,context/fab,none,manufacturing,manual,"ContextFab GmbH, Munich; careers page only, no public ATS",contextfab.ai
+redpanda,redpanda-data,Redpanda Data,ashby,horizontal,discovered,streaming data platform,redpanda.com
+dehazelabs,DehazeLabs,Dehaze Labs,ashby,horizontal,discovered,,dehaze.de
+tenex,tenexlabs,Tenex,ashby,horizontal,discovered,"domain blanked 30 Sep: tenex.com is a floor-protection manufacturer, tenex.ai is an AI-native SOC, tenex.co is a third. Our Tenex is the NYC AI company on ashby/tenexlabs.",
+geckorobotics,gecko-robotics,Gecko Robotics,ashby,energy|manufacturing,discovered,role titles name Oil & Gas,geckorobotics.com
+varickagents,varick-agents,Varick Agents,ashby,finance,discovered,finance language throughout the advert,varick.ai
+permitflow,,PermitFlow,ashby,construction,discovered,"construction permitting, 35 construction mentions",permitflow.com
+cassihome,,Cassi Home,ashby,real-estate,discovered,15 real estate mentions,cassihome.com
+netic,,Netic,ashby,horizontal,discovered,,netic.com
+auctor,,Auctor,ashby,horizontal,discovered,,auctor.com
+serval,Serval,Serval,ashby,horizontal,discovered,IT service desk,serval.com
+codemetal,code-metal,Code Metal,ashby,defence,discovered,role titles name USMC and SOCOM,codemetal.ai
+northslopetech,northslope-technologies,Northslope Technologies,ashby,horizontal,discovered,8 of 10 roles are FDE-tier,northslope.com
+magical,,Magical,ashby,horizontal,discovered,"domain blanked 30 Sep: magical.com is Magical Mobility, a different company.",
+vitalize,,Vitalize,ashby,healthcare,discovered,"44 healthcare mentions; domain blanked 30 Sep: vitalize.dev is a development agency, not the hospital capacity company on ashby/vitalize.",
+valon,Valon,Valon Tech,ashby,finance,discovered,mortgage servicing,valontech.com
+striim,striiminc,Striim,greenhouse,horizontal,discovered,data integration,striim.ai
+addepar,addepar1,Addepar,greenhouse,finance,discovered,wealth management,addepar.com
+devrev,,DevRev,greenhouse,horizontal,discovered,15 FDE-tier roles,
+gradial,,Gradial,greenhouse,horizontal,discovered,,gradial.com
+razorpay,razorpaysoftwareprivatelimited,Razorpay,greenhouse,finance,discovered,payments; no FDE role open on this run,razorpay.com
+edisonscientific,Edison%20Scientific,Edison Scientific,ashby,life-sciences,discovered,"Ashby slug contains a space, hence %20",edisonscientific.com
+tamarindbio,,Tamarind Bio,ashby,life-sciences,discovered,"founding FDE, pharma and biotech",tamarind.bio
+truelogic,,Truelogic,ashby,media,discovered,"15 FDE-tier roles, creative and marketing transformation",
+reflectionai,,Reflection,ashby,horizontal,discovered,6 FDE-tier roles,
+roboflow,,Roboflow,ashby,horizontal,discovered,"computer vision across manufacturing, logistics, retail",roboflow.com
+teleskope,,Teleskope,ashby,horizontal,discovered,data privacy,
+entsecurity,ent-security,Ent,ashby,horizontal,discovered,,
+aron,negotiate-ai,Aron,ashby,horizontal,discovered,,
+preql,,Preql,ashby,finance,discovered,"FDE, Finance Solutions",
+commerceiq,,CommerceIQ,greenhouse,retail,discovered,retail and ecommerce; no FDE-tier role on this run,
+istaridigital,istaridigital.ai,Istari Digital,lever,defence,discovered,15 FDE-tier roles; digital engineering for defence,istaridigital.com
+gitlab,,GitLab,greenhouse,horizontal,discovered,12 FDE-tier roles incl FDE EMEA,gitlab.com
+forerunner,,Forerunner,ashby,government,discovered,Deployment Strategist; software for local government,withforerunner.com
+emergentlabs,emergentlabsinc,Emergent Labs,greenhouse,horizontal,discovered,,
+sixtysixdegrees,66degrees,66degrees,greenhouse,horizontal,discovered,Google Cloud delivery partner,
+eliseai,eliseai,EliseAI,ashby,real-estate|healthcare,strictlyvc 2026-09-29,"$350m round announced 2026-09-29; board carries Deployment Manager and Solutions Engineer roles, all tagged | Housing",eliseai.com
+outmarketai,outmarket,Outmarket AI,ashby,insurance,strictlyvc 2026-09-29,$34.5m round announced 2026-09-29; board carries a Forward Deployed AI Engineer,outmarket.ai
+flowengineering,flowengineering,Flow Engineering,ashby,manufacturing,strictlyvc 2026-09-30,$50m round announced 2026-09-30; board carries Forward Deployed Engineer and Solutions Architects,flowengineering.com
+selaai,sela,Sela AI,ashby,finance,strictlyvc 2026-09-22,$21m round announced 2026-09-22; board carries a Forward Deployed Product Manager,trysela.com
+restate,restate,Restate,ashby,horizontal,strictlyvc 2026-09-30,"$20m round announced 2026-09-30; board carries only a Solutions Architect, so expect the classifier to call these related rather than core",restate.dev
+miter,miter,Miter,,construction,strictlyvc 2026-09-30,"raised $40m, announced 2026-09-30; payroll, HR and field operations for construction contractors; no deployment role posted yet, which is the point",miter.com
+parakeethealth,parakeethealth,Parakeet Health,,healthcare,strictlyvc 2026-10-02,"raised $10m, announced 2026-10-02; patient communications and access workflows for health systems; no deployment role posted yet, which is the point",parakeethealth.com
+island,island,Island,,horizontal,strictlyvc 2026-09-24,"raised $400m, announced 2026-09-24; enterprise browser, deployed across a customer's whole estate; no deployment role posted yet, which is the point",island.io
+cyera,cyera,Cyera,,horizontal,strictlyvc 2026-09-22,"raised $400m, announced 2026-09-22; enterprise data security and access control; no deployment role posted yet, which is the point",cyera.com
+chamelio,chamelio,Chamelio,,legal,strictlyvc 2026-09-22,"raised $26m, announced 2026-09-22; AI agents that draft, review and negotiate corporate contracts; no deployment role posted yet, which is the point",chamelio.ai
+baselayer,baselayer,Baselayer,,finance,strictlyvc 2026-09-22,"raised $35m, announced 2026-09-22; identity and fraud checks for financial institutions; no deployment role posted yet, which is the point",baselayer.com
+trebellar,trebellar,Trebellar,,real-estate,strictlyvc 2026-09-24,"raised $18m, announced 2026-09-24; corporate real estate decisions from building data; no deployment role posted yet, which is the point",trebellar.com
+ascerta,ascerta,Ascerta,,horizontal,strictlyvc 2026-09-30,"raised $18m, announced 2026-09-30; tracks enterprise AI usage and adoption; no deployment role posted yet, which is the point",ascerta.com
+numeral,numeral,Numeral,,finance,strictlyvc 2026-09-23,"raised $100m, announced 2026-09-23; sales tax calculation and compliance for businesses; no deployment role posted yet, which is the point",numeral.com
+brahmaai,brahmaai,Brahma AI,,media,strictlyvc 2026-09-22,"raised $150m, announced 2026-09-22; enterprise audiovisual content management and localisation; no deployment role posted yet, which is the point",brahmaai.com
+remotethreat,remotethreat,RemoteThreat,,defence|government,strictlyvc 2026-09-30,"raised $7m, announced 2026-09-30; cyber capability for government; no deployment role posted yet, which is the point",remotethreat.com
+fortemtechnologies,fortemtechnologies,Fortem Technologies,,defence,strictlyvc 2026-10-02,"raised $50m, announced 2026-10-02; counter-drone systems, installed and run on site; no deployment role posted yet, which is the point",fortemtechnologies.com
+minervahumanoids,minervahumanoids,Minerva Humanoids,,energy,strictlyvc 2026-10-06,"raised $10m, announced 2026-10-06; semi-autonomous humanoids for hazardous energy and public safety work; no deployment role posted yet, which is the point",minervahumanoids.com
+kanuai,kanuai,Kanu AI,,horizontal,strictlyvc 2026-09-30,"raised $11.7m, announced 2026-09-30; turns employee workflows and expertise into operational software; no deployment role posted yet, which is the point",kanuai.co
+ultrasight,ultrasight,UltraSight,,healthcare,strictlyvc 2026-09-24,"raised $24m, announced 2026-09-24; AI cardiac scan guidance, deployed into clinics; no deployment role posted yet, which is the point",ultrasight.com
+altrohealth,altrohealth,Altro Health,,healthcare,strictlyvc 2026-10-06,"raised $7m, announced 2026-10-06; clinician-prescribed programmes for gyms, trainers and medical spas; no deployment role posted yet, which is the point",altrohealth.com
+reflex,reflex,Reflex,,horizontal,strictlyvc 2026-10-29,"raised $14m, announced 2026-10-29; builds internal software alongside the customer's own experts; added 16 Nov 2026 from the StrictlyVC catch-up",reflex.dev
+finitestate,finitestate,Finite State,,manufacturing,strictlyvc 2026-11-12,"raised $27m, announced 2026-11-12; product security for connected-device makers; added 16 Nov 2026 from the StrictlyVC catch-up",finitestate.io
+appliedcompute,appliedcompute,Applied Compute,,horizontal,strictlyvc 2026-11-03,"raised $350m, announced 2026-11-03; trains and runs custom models inside enterprises; added 16 Nov 2026 from the StrictlyVC catch-up",appliedcompute.com
+kindo,kindo,Kindo,,horizontal,strictlyvc 2026-11-13,"raised $30m, announced 2026-11-13; AI agent management for enterprise IT, security and finance; added 16 Nov 2026 from the StrictlyVC catch-up",kindo.ai
+tristarai,tristarai,Tristar AI,,manufacturing,strictlyvc 2026-11-13,"raised $12.4m, announced 2026-11-13; computer-vision defect detection on factory lines; added 16 Nov 2026 from the StrictlyVC catch-up",tristar.ai
+pigment,pigment,Pigment,,finance,strictlyvc 2026-10-21,"raised $250m, announced 2026-10-21; enterprise business planning; added 16 Nov 2026 from the StrictlyVC catch-up",pigment.com
+ancep,ancep,Ancep,,insurance,strictlyvc 2026-11-10,"raised $8.5m, announced 2026-11-10; AI agents for insurance brokers; added 16 Nov 2026 from the StrictlyVC catch-up",ancep.com
+lightframe,lightframe,Light Frame,,finance,strictlyvc 2026-11-10,"raised $5.1m, announced 2026-11-10; core banking and portfolio systems for private banks; added 16 Nov 2026 from the StrictlyVC catch-up",lightframe.tech
+tractian,tractian,Tractian,,manufacturing,strictlyvc 2026-10-22,"raised $130m, announced 2026-10-22; physical AI for asset-heavy industrial operations; added 16 Nov 2026 from the StrictlyVC catch-up",tractian.com
+kalepa,kalepa,Kalepa,,insurance,strictlyvc 2026-11-05,"raised $75m, announced 2026-11-05; AI underwriting for commercial insurers; added 16 Nov 2026 from the StrictlyVC catch-up",kalepa.com
+lazarusai,lazarusai,Lazarus AI,,government|insurance,strictlyvc 2026-11-05,"raised $43m, announced 2026-11-05; enterprise AI systems for insurance, government and defence; added 16 Nov 2026 from the StrictlyVC catch-up",lazarusai.com
+lumbra,lumbra,Lumbra,,horizontal,strictlyvc 2026-11-12,"raised $25m, announced 2026-11-12; agentic AI for high-consequence enterprise operations; added 16 Nov 2026 from the StrictlyVC catch-up",lumbra.ai
+nominal,nominal,Nominal,,defence|manufacturing,strictlyvc 2026-11-09,"raised $240m, announced 2026-11-09; test and telemetry platform for hardware engineering teams; added 16 Nov 2026 from the StrictlyVC catch-up",nominal.io
+hyphenate,hyphenate,Hyphenate,,finance,strictlyvc 2026-10-27,"raised $45m, announced 2026-10-27; autonomous finance operations for CFO teams; added 16 Nov 2026 from the StrictlyVC catch-up",hyphenate.ai
+ravical,ravical,Ravical,,finance,strictlyvc 2026-10-30,"raised $17m, announced 2026-10-30; AI across accounting firms' client books; added 16 Nov 2026 from the StrictlyVC catch-up",ravical.com
+trashlab,trashlab,TrashLab,,logistics,strictlyvc 2026-10-29,"raised $12m, announced 2026-10-29; dispatch, billing and CRM for waste haulers; added 16 Nov 2026 from the StrictlyVC catch-up",trashlab.com
+traversal,traversal,Traversal,,horizontal,strictlyvc 2026-11-04,"raised $120m, announced 2026-11-04; AI site reliability engineering for enterprise systems; added 16 Nov 2026 from the StrictlyVC catch-up",traversal.com

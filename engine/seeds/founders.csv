@@ -1,0 +1,157 @@
+company_slug,person,title,source_url,added_on,note
+databricks,Ali Ghodsi,Co-founder and Chief Executive Officer,https://www.databricks.com/blog/author/ali-ghodsi,2026-09-20,
+writer,May Habib,CEO & Co-founder,https://writer.com/about/,2026-09-20,
+baseten,Tuhin Srivastava,CEO and Co-Founder,https://www.baseten.co/about-us/,2026-09-20,
+ramp,Eric Glyman,Co-Founder & Co-CEO,https://ramp.com/about-us,2026-09-20,"Page also references a second co-CEO, Karim (Atiyeh), per a linked Ramp blog post title, but his surname was not visible in the fetched content."
+torq,Ofer Smadari,CEO & Co-Founder,https://torq.io/company/,2026-09-20,"Batch listed website as torq.com, but that domain resolves to an unrelated legacy switch-manufacturer page; the security-automation Torq's own site is torq.io."
+accurx,Jacob Haddad,Founder,https://www.accurx.com/our-story,2026-09-20,"Page names two founders (Jacob Haddad, Laurence Bargery) without individual titles; took the first-listed per instructions. Neither is explicitly called CEO on the page."
+fireworksai,Lin Qiao,CEO,https://fireworks.ai,2026-09-20,Named on Fireworks' own homepage in reference to an NVIDIA GTC conversation; could not reach a dedicated team page (404) to get a fuller title.
+replit,Amjad Masad,Founder & CEO,https://replit.com/about,2026-09-20,
+suki,Punit Soni,Founder & CEO,https://www.suki.ai/about-us/,2026-09-20,
+buildots,Roy Danon,CEO & Co-Founder,https://www.buildots.com/about-us,2026-09-20,
+cognition,Scott Wu,Founder,https://cognition.com/blog/funding-growth-and-the-next-frontier-of-ai-coding-agents,2026-09-20,No page gave Scott Wu a formal CEO title; this is a self-authored company blog post identifying him as a founder.
+hadrian,Chris Power,Founder & CEO,https://www.hadrian.co/press,2026-09-20,"Batch listed website as hadrian.com, which resolves to an unrelated telephone-answering-service company. The precision-manufacturing Hadrian's real domain is hadrian.co."
+mistral,Arthur Mensch,Co-founder and CEO,https://mistral.ai/company,2026-09-20,
+assorthealth,Jon Wang,Founder & co-CEO,https://www.assorthealth.com/about-us,2026-09-20,Two co-CEOs named (Jon Wang and Jeffery Liu); took the first listed.
+monumental,Salar al Khafaji,Chief Executive Officer (CEO),https://monumental.co/blog/we-raised-32-million-to-put-more,2026-09-20,About page only gave first names (Salar and Sebas); full name and title came from the company's own funding-announcement blog post.
+higharc,Marc Minor,Co-founder & CEO,https://www.higharc.com/about,2026-09-20,
+togetherai,Vipul Ved Prakash,Founder & CEO,https://together.ai/about,2026-09-20,
+turing,Jonathan Siddharth,CEO and Co-Founder,https://www.prnewswire.com/news-releases/turing-continues-leading-ai-enhancement-of-tech-talent-company-announces-70-increase-in-acceptance-rates-with-google-clouds-gemini-code-assist-302120395.html,2026-09-20,"Turing.com's own about/company/leadership/newsroom pages did not surface his name in fetchable content, so used a PR Newswire release issued by the company."
+xyzreality,David Mitchell,Founder & CEO,https://www.xyzreality.com/meet-the-team,2026-09-20,
+agave,Tom Reno,Co-founder / CEO,https://www.useagave.com/about-us,2026-09-20,
+clay,Kareem Amin,Co-Founder,https://www.clay.com/about,2026-09-20,Page labels him Co-Founder but does not state a separate CEO title.
+crusoe,Chase Lochmiller,"Co-founder, CEO and Chairman of the Board",https://www.crusoe.ai/about/leadership,2026-09-20,crusoe.com (as given) is an unrelated for-sale domain; the actual company site is crusoe.ai.
+fluidstack,Gary Wu,CEO and Co-Founder,https://www.fluidstack.io/news/fluidstack-expands-u-s-investment-by-relocating-global-headquarters-to-new-york-city,2026-09-20,fluidstack.com redirects/resolves to fluidstack.io; used their own newsroom post.
+harvey,Winston Weinberg,Co-founder,https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence,2026-09-20,Post names two co-founders with no separate CEO title given; took the first listed.
+patronusai,Anand Kannappan,Co-Founder & CEO,https://www.patronus.ai/company,2026-09-20,
+legora,Max Junestrand,Co-founder & CEO,https://www.legora.com,2026-09-20,checked by hand: site blocks the plain fetch
+tines,Eoin Hinchy,Co-founder and CEO,https://www.tines.com/about,2026-09-20,checked by hand: site blocks the plain fetch
+ema,Surojit Chatterjee,Co-Founder & CEO,https://www.ema.ai/about,2026-09-20,checked by hand: site blocks the plain fetch
+tandemhealth,Lukas Saari,CEO & Co-founder,https://www.tandemhealth.ai/about,2026-09-20,checked by hand: site blocks the plain fetch
+coreweave,Mike Intrator,"Chief Executive Officer, Co-founder",https://wf.coreweave.com/about-us,2026-09-20,checked by hand: site blocks the plain fetch
+runpod,Zhen Lu,Founder,https://runpod.io/about,2026-09-20,checked by hand: site blocks the plain fetch
+magentic,Robin Van Aeken,Founder,https://www.magentic.com/about,2026-09-20,Page names two founders with no titles; first listed taken.
+palantir,Alex Karp,Co-founder and Chief Executive Officer,https://investors.palantir.com/management.html,2026-10-23,palantir.com investor subdomain
+anduril,Palmer Luckey,Founder,https://www.anduril.com/anduril-leadership,2026-10-23,Checked by hand: plain fetch blocked or page renders client side. name and role 'Founder' confirmed in page source (JS-rendered); Brian Schimpf is CEO per search snippet only
+happyrobot,Pablo Palafox,Co-founder and CEO,https://happyrobot.ai/blog/happyrobot-seriesc-fundraising-announcement,2026-10-23,Checked by hand: plain fetch blocked or page renders client side. Series C blog post on own domain
+appliedintuition,Qasar Younis,Co-founder and CEO,https://www.appliedintuition.com/about,2026-10-23,
+eliseai,Minna Song,Co-founder and CEO,https://eliseai.com/blog/eliseai-hits-200m-arr-after-five-consecutive-years-of-100-growth-across-housing-and-healthcare,2026-10-23,press release on own domain
+faculty,Marc Warner,Chief Executive Officer & Co-Founder,https://faculty.ai/company,2026-10-23,Faculty now owned by Accenture; page still lists him
+chalk,Marc Freed-Finnegan,Co-Founder & CEO,https://chalk.ai/about,2026-10-23,
+hebbia,George Sivulka,Founder and CEO,https://www.hebbia.com/blog/hebbia-raises-usd30-million-led-by-index-ventures-to-launch-the-future-of,2026-10-23,Series A blog post quote attribution
+snyk,Ken MacAskill,Interim CEO,https://snyk.io/about/leadership/,2026-10-23,page names no founder; interim CEO as written
+zip,Rujul Zaparde,CEO and Cofounder,https://zip.com/about,2026-10-23,domain used: zip.com (ziphq.com 301s to it)
+chainguard,Dan Lorenc,Chief executive officer & Co-Founder,https://www.chainguard.dev/about,2026-10-23,Checked by hand: plain fetch blocked or page renders client side. domain used: chainguard.dev (chainguard.com given not checked)
+flowengineering,Chris Walti,Co-Founder & CEO,https://www.flowengineering.com/,2026-10-23,homepage
+langdock,Jonas Beisswenger,Co-founder,https://www.langdock.com/about-us,2026-10-23,"Checked by hand: plain fetch blocked or page renders client side. page captions Jonas Beisswenger, Lennard Schmidt, Tobias Kemkes as 'Langdock founders'; no individual title"
+roboflow,Joseph Nelson,CEO,https://roboflow.com/press,2026-10-23,"press page lists podcast 'with CEO Joseph Nelson'; /about says Brad Dwyer and Joseph Nelson launched Roboflow, no titles"
+trebellar,Diego Ferreiro Val,Co-founder and CEO,https://trebellar.com/about,2026-10-23,
+arize,Jason Lopatecki,Co-founder and CEO,https://www.arize.com/about-us/,2026-10-23,
+builtrobotics,Noah Ready-Campbell,Founder & CEO,https://www.builtrobotics.com/quote/noah-ready-campbell,2026-10-23,"Checked by hand: plain fetch blocked or page renders client side. page blocks fetch (Cloudflare 403), confirmed via search snippet of own page"
+condukt,Paulo Guichard,Co-founder,https://condukt.co/company/about-us,2026-10-23,page says co-founded by Paulo Guichard and Baz Rao; no CEO title given
+entsecurity,Elias (Lou) Manousos,Founder,https://ent.ai/blog/black-hat-2026-confirmed-it-security-has-to-move-closer-to-where-work-happens/,2026-10-23,domain used: ent.ai (ent.security redirects); blog caption 'Ent Founder Elias (Lou) Manousos'; team page is JS-rendered
+glean,Arvind Jain,Founder,https://www.glean.com/about,2026-10-23,about page lists four founders without titles; CEO title not on own page
+istaridigital,Will Roper,CEO and Co-founder,https://www.istaridigital.com/about,2026-10-23,page writes 'Dr. Will Roper'
+numeral,Sam Ross,Co-founder & CEO,https://www.numeral.com/about,2026-10-23,
+redpanda,Alexander Gallego,CEO,https://www.redpanda.com/about-us,2026-10-23,title from page structured data
+sphinx,Alexandre Berkovic,Co-founder and CEO,https://www.sphinxhq.com/company,2026-10-23,
+altrohealth,Andrea Corleto,Co-founder,https://altrohealth.com/post/altro-health-raised-7m-to-build-the-clinical-infrastructure-wellness-businesses-need,2026-10-23,funding post names co-founders Andrea Corleto and Jennifer Arnold; CEO title not on page
+cyera,Yotam Segev,Co-founder and CEO,https://www.cyera.com/about,2026-10-23,
+miter,Connor Watumull,Co-Founder & CEO,https://www.miter.com/resources/its-time-to-build/,2026-10-23,byline and bio
+ultrasight,Davidi Vortman,CEO,https://www.ultrasight.com/our-team/,2026-10-23,"co-founders on same page: Itay Kezurer (CTO), etc."
+openai,Sam Altman,Co-founder and CEO,https://forum.openai.com/public/videos/event-replay-sam-altman-on-building-the-future-of-ai-2026-04-06,2026-10-23,openai.com main pages block fetch (403); forum.openai.com is an openai.com subdomain
+rogo,Gabriel Stengel,CEO and Co-Founder,https://rogo.com/news/announcing-our-strategic-partnership-with-lseg,2026-10-23,Checked by hand: plain fetch blocked or page renders client side. title from quote attribution in press post
+saronic,Dino Mavrookas,Co-Founder and CEO,https://www.saronic.com/team,2026-10-23,
+codemetal,Peter Morales,Co-Founder & CEO,https://codemetal.ai/about,2026-10-23,Checked by hand: plain fetch blocked or page renders client side. 
+handshake,Garrett Lord,Co-Founder & CEO,https://joinhandshake.com/about/,2026-10-23,
+geckorobotics,Jake Loosararian,Co-founder,https://www.geckorobotics.com/about-us,2026-10-23,page lists him as cofounder; CEO title not stated on page text
+deepgram,Scott Stephenson,CEO and co-founder,https://deepgram.com/about,2026-10-23,
+labelbox,Manu Sharma,Co-founder & CEO,https://labelbox.com/company/about/,2026-10-23,
+stackai,Toni Rosinol,Co-founder,https://www.stackai.com/blog/stack-ai-raises-3m-seed-round,2026-10-23,author signature; CEO title not on page. Search sources conflict on which cofounder is CEO (Rosinol vs Bernard Aceituno).
+clarion,"Ryan Gallagher, MD",Co-Founder & CEO,https://clarionhealth.com/company,2026-10-23,clarionhealth.com is the AI front office company (correct)
+gitlab,Bill Staples,CEO,https://ir.gitlab.com/news/news-details/2024/GitLab-Names-Bill-Staples-as-New-CEO/default.aspx,2026-10-23,Checked by hand: plain fetch blocked or page renders client side. current CEO since 5 Dec 2024; co-founder Sid Sijbrandij is now executive chair. Source is ir.gitlab.com subdomain
+magical,Harpaul Sambhi,Founder & CEO,https://www.getmagical.com/blog/julie-klapstein-founding-ceo-of-availity-joins-magical,2026-10-23,domain was empty; used getmagical.com (AI workflow automation for healthcare)
+preql,Gabi Steele,Co-founder,https://www.preql.ai/about,2026-10-23,domain was empty; used preql.ai. Page gives no CEO title; off-site sources conflict on which of Steele/Weiss is CEO
+truelogic,Marcelo Tribuj,Founder and CEO,https://www.truelogic.io/about-us,2026-10-23,domain was empty; used truelogic.io (nearshore software firm)
+sixtysixdegrees,Ben Kessler,Chief Executive Officer,https://66degrees.com/about-us/,2026-10-23,domain was empty; used 66degrees.com. CEO not founder (page names predecessor founders only)
+aron,Dominic Toselli,Founder,https://aron.ai/,2026-10-23,"Checked by hand: plain fetch blocked or page renders client side. domain was empty; used aron.ai (formerly NegotiateAI, procurement AI). Page does not use word CEO"
+dehazelabs,Marius Klages,Co-founder and CEO,https://www.dehaze.de/press/dehaze-raises-%E2%82%AC3.2-million-to-build-the-foundational-ai-model-for-chronic-disease-detection%2C-unlocking-up-to-%24800bn-savings-in-the-world%E2%80%99s-largest-healthcare-cost-category,2026-10-23,dehaze.de press release
+factory,Matan Grinberg,Co-founder and CEO,https://factory.com/news/claude-marketplace,2026-10-23,factory.com is the agent-native dev platform (Droids); factory.ai is the same company
+handoff,Dmitry Alexin,CEO & Founder,https://www.handoff.ai/blog/handoff-h1-ai-takeoffs,2026-10-23,
+kota,Luke Mackey,CEO & Co-Founder,https://kota.io/careers,2026-10-23,title from quote attribution on careers page
+outmarketai,Vishal Sankhla,CEO & Co-founder,https://www.outmarket.ai/about,2026-10-23,Checked by hand: plain fetch blocked or page renders client side. 
+runwayml,Cristóbal Valenzuela,Co-founder and co-CEO,https://runway.com/news/runway-is-coming-to-japan,2026-10-23,runway.com is Runway AI (runwayml.com redirects to it); Anastasis Germanidis is co-CEO
+tamarindbio,Deniz Kavi,Co-founder and CEO,https://www.tamarind.bio/blog/series-a-13.6m-core-infrastructure-for-ai-drug-discovery-inference,2026-10-23,domain tamarind.bio
+vercel,Guillermo Rauch,CEO and founder,https://vercel.com/acquired,2026-10-23,fetch summary gave title; name confirmed via vercel.com search snippets
+ascerta,David Tepper,CEO & Co-Founder,https://ascerta.com/about,2026-10-23,enterprise AI ROI measurement company; check it is the intended Ascerta
+fortemtechnologies,Jon Gruen,Chief Executive Officer,https://fortemtech.com/leadership/,2026-10-23,"fortemtechnologies.com redirects to fortemtech.com. CEO, not founder (co-founder Adam Robertson is CTO)"
+parakeethealth,"Jung Park, PhD",Co-Founder & CEO,https://parakeethealth.com/about,2026-10-23,
+scaleai,Francis deSouza,CEO,https://scale.com/blog/scale-appoints-new-ceo,2026-10-23,Page title: 'Scale AI Appoints Francis deSouza as CEO...'. Not a founder (appointed CEO Aug 2026); no founder named on scale.com. Domain scale.com correct.
+elevenlabs,Mati Staniszewski,CEO,https://elevenlabs.io/blog/series-c,2026-10-23,"Press release quote 'Mati Staniszewski, CEO of ElevenLabs'; /about lists him as Co-Founder."
+shieldai,Brandon Tseng,Co-Founder and President,https://shield.ai/company,2026-10-23,"Domain used shield.ai (given shieldai.dev is not the main site). Ryan Tseng (Co-Founder, President & CSO) and Andrew Reiter are also co-founders; no CEO named on page."
+anysphere,Michael Truell,CEO,https://cursor.com/compile,2026-10-23,Compile page: 'Michael Truell — Cursor CEO'. He is the author of cursor.com/blog posts; page does not literally say co-founder.
+snorkelai,Alex Ratner,Co-Founder & CEO,https://snorkel.ai/author/alex-ratner/,2026-10-23,snorkel.ai
+netic,Melisa Tokmak,Founder,https://www.netic.ai/employee-stories/melisa,2026-10-23,"Domain wrong: netic.com is Net Improvement Consulting (network mgmt, unrelated). Used netic.ai. Page calls her 'Netic's fearless founder'; search snippet of a customer story said Founder and CEO."
+eudia,Omar Haroun,CEO,https://www.eudia.com/newsroom/omar-haroun-honored-by-goldman-sachs-for-entrepreneurship,2026-10-23,Domain eudia.ai redirects to eudia.com. Page: 'Goldman Sachs Honors Eudia CEO Omar Haroun' and 'CEO and co-founder Omar Haroun'.
+luminai,Kesava Kirupa Dinakaran,CEO and Founder,https://www.luminai.com/about,2026-10-23,luminai.com/about (confirmed via fetch).
+tenex,Alex Lieberman,Managing Partner,https://tenex.co/about,2026-10-23,"Domain empty; used tenex.co (NYC AI consultancy; tenex.ai is a different cybersecurity company). Page lists Alex Lieberman and Arman Hezarkhani both as 'Managing Partner'; no founder/CEO title stated,"
+auctor,Will Sun,Co-founder & CEO,https://www.getauctor.com/auctor-workday-rising,2026-10-23,"Domain wrong: auctor.com is Auctor Corporation (Indianapolis child support consultancy, unrelated). Real company is getauctor.com (AI implementation, Sequoia-backed). Page shows 'Will Sun'; blog bylin"
+comena,Jiehua Wu,Co-Founder & CEO,https://comena.ai/en/about-us,2026-10-23,comena.ai
+gradial,Doug Tallmadge,Co-Founder and CEO,https://www.gradial.com/blog/ai-powered-content-stack,2026-10-23,gradial.com
+modal,Erik Bernhardsson,CEO and Founder,https://modal.com/blog,2026-10-23,Checked by hand: plain fetch blocked or page renders client side. modal.com/blog data lists jobTitle 'CEO and Founder' and Series B post is authored by him; modal.com/company says 'Our founders Erik B
+reducto,Adit Abraham,CEO,https://reducto.ai/blog,2026-10-23,"Checked by hand: plain fetch blocked or page renders client side. Domain reducto.com is not the site; real site is reducto.ai. Blog text: 'Adit Abraham, CEO' and 'Founded by Adit Abraham and Raunak Ch"
+supabase,Paul Copplestone,CEO and Co-Founder,https://supabase.com/blog/supabase-series-e,2026-10-23,supabase.com
+valon,Andrew Wang,CEO & Co-Founder,https://valon.ai/about,2026-10-23,"Domain valontech.com is Valon Technologies (est. 2000, unrelated). Real Valon (mortgage servicing, ValonOS) is valon.ai (valon.com redirects/now Carrington page)."
+abridge,"Shiv Rao, MD","CEO, Co-Founder",https://abridge.com/about,2026-10-23,abridge.com
+artisan,Jaspar Carmichael-Jack,Founder,https://artisan.co/about,2026-10-23,Checked by hand: plain fetch blocked or page renders client side. artisan.co; page says he is a third-time founder; CEO title not stated in fetched text.
+chamelio,Alex Zilberman,CEO and Co-Founder,https://www.chamelio.ai/webinars/whos-managing-who,2026-10-23,"chamelio.ai; about/company page names nobody, found on webinar page."
+edisonscientific,Sam Rodriques,"CEO, Co-Founder",https://edisonscientific.com/team,2026-10-23,edisonscientific.com
+forerunner,JT White,Co-founder and CEO,https://www.withforerunner.com/post/governmenttechnology-forerunner-shares-whats-next-for-ai-in-hazard-managementt,2026-10-23,withforerunner.com is Forerunner (geospatial/hazard AI for local government); consistent with job listing.
+harper,Dakotah Rice,CEO & Co-Founder,https://www.harperinsure.com/news/series-a-announcement/,2026-10-23,harperinsure.com
+parallel,Paul Lafforgue,Co-founder and CEO,https://www.beparallel.com/news/parallel-raises-20m-to-accelerate-ai-agent-deployment-in-hospitals,2026-10-23,beparallel.com (Paris hospital admin AI).
+salient,Ari Malik,Co-founder and CEO,https://www.trysalient.com/company,2026-10-23,trysalient.com; page also lists 'Arijit Malik Co-founder & CEO'.
+tavus,Hassaan Raza,Co-founder & CEO,https://www.tavus.io/griffin,2026-10-23,tavus.io
+vitalize,Veeraj Shah,,https://vitalize.care/blog/vitalize-series-a,2026-10-23,"Domain empty; used vitalize.care (hospital staffing AI, SF). Name on page but no explicit title; press says CEO and co-founder. Weak on title."
+baselayer,Jonathan Awad,Co-Founder & CEO,https://baselayerhq.com/about,2026-10-23,Checked by hand: plain fetch blocked or page renders client side. Domain baselayer.com returns nothing; Baselayer's site is baselayerhq.com.
+kanuai,Karan Grover,Founder and CEO,https://getkanu.com/blog/seed-announcement,2026-10-23,"Checked by hand: plain fetch blocked or page renders client side. Domain kanuai.co is a different product ('Kanu - The AI Cloud Engineer'). Real Kanu AI (a16z speedrun, Seattle) is getkanu.com."
+remotethreat,Chris Thompson,Co-Founder & CEO,https://remotethreat.com/company,2026-10-23,remotethreat.com
+devrev,Dheeraj Pandey,Co-founder & CEO,https://devrev.ai/authors/dheeraj,2026-10-23,"Checked by hand: plain fetch blocked or page renders client side. domain empty, used devrev.ai; page blocks fetch (Vercel checkpoint / 429), confirmed via search snippet only"
+cohere,Aidan Gomez,Co-founder and CEO,https://cohere.com/about,2026-10-23,
+anthropic,Dario Amodei,Co-Founder and Chief Executive Officer,https://www.anthropic.com/company/leadership,2026-10-23,title confirmed via fetch
+decagon,Jesse Zhang,Co-founder & CEO,https://decagon.ai/about,2026-10-23,
+cresta,Ping Wu,Chief Executive Officer,https://cresta.com/about,2026-10-23,"CEO since 2023; co-founders Sebastian Thrun, Tim Shi, Zayd Enam also listed"
+parloa,Malte Kosub,CEO & Co-founder,https://www.parloa.com/company/about-us,2026-10-23,
+gigaml,Varun Vummadi,Co-founder,https://giga.ai/news/series-a,2026-10-23,"gigaml.ai is a for-sale parking page; real company is Giga at giga.ai (gigaml.com redirects there). Title not stated on page, CEO not confirmed"
+serval,Jake Stauch,CEO & Co-Founder,https://www.serval.com/serval-news/introducing-serval-start-a-new-path-for-aspiring-founders,2026-10-23,Checked by hand: plain fetch blocked or page renders client side. domain serval.com OK
+wonderful,Bar Winkler,CEO and Co-founder,https://www.wonderful.ai/blog-articles/wonderful-raises-150m-series-b-to-accelerate-enterprise-ai-adoption-in-30-markets,2026-10-23,
+bobyard,Michael Ding,Founder,https://www.bobyard.com/about,2026-10-23,no formal title on page
+contextfab,Marc Krüger-Sprengel,CEO,https://contextfab.ai/company,2026-10-23,
+planlab,Felix Hodson,Co-founder & CEO,https://www.planlab.ai/team,2026-10-23,planlab.ai is the construction scheduling company (has Delivery Lead job); co-founder Max Snijders CTO
+tennr,Trey Holterman,"CEO, Co-Founder",https://tennr.com/about,2026-10-23,
+vannevar,Brett Granberg,CEO,https://www.vannevarlabs.com/why-vannevar/leadership/,2026-10-23,Checked by hand: plain fetch blocked or page renders client side. name and jobTitle CEO present in page data (JS-rendered); bio says 'Brett is the CEO of Vannevar'
+arini,Abdul Jamjoom,Co-founder and CEO,https://www.arini.ai/about-us,2026-10-23,
+avallonai,Cornelius Schramm,Chief Executive Officer,https://www.avallon.ai/imprint,2026-10-23,"imprint names him Authorized Representative and CEO; about page lists him too, no founder label"
+emergentlabs,Mukund Jha,Co-Founder & CEO,https://emergent.sh/about-us,2026-10-23,"domain empty, used emergent.sh (Emergent Labs Inc.)"
+frontierhealth,Rachel Finegold,Founder & CEO,https://frontierhealth.ai/about-us,2026-10-23,UK NHS-focused; matches frontierhealth.ai
+island,Mike Fey,Co-Founder & CEO,https://island.io/about,2026-10-23,
+laelaps,Dr. Sophia Belser,Chief Executive Officer,https://laelaps.ai,2026-10-23,
+permitflow,Francis Thumpasery,Co-Founder & CEO,https://www.permitflow.com/blog/permitflow-series-b,2026-10-23,spelling 'Thumbasery' appears on partners page
+selaai,Nate Becker,Co-Founder & CEO,https://www.trysela.com/company,2026-10-23,domain trysela.com
+teleskope,Elizabeth Nammour,Founder & CEO,https://www.teleskope.ai/company/about,2026-10-23,"domain empty, used teleskope.ai (data security); page also calls her Lizzy Nammour"
+adaptivebuild,Matt Calvano,Co-founder and CEO,https://www.adaptive.build/blog/adaptive-named-construction-executive-2026-top-construction-technology-products,2026-10-23,construction accounting company
+brahmaai,Prabhu Narasimhan,Founder & CEO,https://www.brahma.io/news/brahma-ai-raises-150-million-round-led-by-multiples,2026-10-23,brahmaai.com 301-redirects to brahma.io; used brahma.io
+restate,Stephan Ewen,Co-founder,https://www.restate.dev/team,2026-10-23,Checked by hand: plain fetch blocked or page renders client side. team page lists four co-founders with no CEO title; Ewen first
+reflex,Nikhil Rao,Co-founder and CEO,https://siliconangle.com/2026/10/29/reflex-raises-15m-to-help-enterprises-replace-generic-third-party-software-with-custom-business-apps/,2026-11-16,named in the funding announcement for the round in seeds/funding.csv
+finitestate,Matt Wyckhouse,Founder and CEO,https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/,2026-11-16,named in the funding announcement for the round in seeds/funding.csv
+kindo,Ron Williams,Founder and CEO,https://techfundingnews.com/kindo-raises-30m-after-800-revenue-growth-can-one-control-center-tame-enterprise-ai-agents/,2026-11-16,named in the funding announcement for the round in seeds/funding.csv
+tristarai,Salem Karani,Founder and CEO,https://www.thesaasnews.com/news/tristar-ai-raises-12-4m-series-a/,2026-11-16,named in the funding announcement for the round in seeds/funding.csv
+ancep,Gagan Khurana,Co-founder and CEO,https://tech.eu/2026/11/10/creandum-leads-85m-funding-for-ancep-to-turn-overlooked-insurance-risks-into-revenue/,2026-11-16,named in the funding announcement for the round in seeds/funding.csv
+lightframe,Schuyler Weiss,Founder,https://techfundingnews.com/light-frame-5-1m-seed-wealth-management-infrastructure/,2026-11-16,named in the funding announcement for the round in seeds/funding.csv
+tractian,Igor Marinelli,Founder and CEO,https://finance.yahoo.com/technology/ai/articles/tractians-130m-series-d-values-180000890.html,2026-11-16,named in the funding announcement for the round in seeds/funding.csv
+kalepa,Paul Monasterio,Co-founder and CEO,https://www.unite.ai/kalepa-raises-75m-series-b-insurance-ai/,2026-11-16,named in the funding announcement for the round in seeds/funding.csv
+lazarusai,Alex Panait,CEO,https://fintech.global/2026/11/04/lazarus-ai-raises-43m-as-firms-fight-for-control-of-ai/,2026-11-16,named in the funding announcement for the round in seeds/funding.csv
+nominal,Cameron McCord,Co-founder and CEO,https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/,2026-11-16,named in the funding announcement for the round in seeds/funding.csv
+hyphenate,Ramnandan Krishnamurthy,Co-founder and CEO,https://techfundingnews.com/hyphenate-45m-series-a-nexus-b-capital-ai-finance-agents/,2026-11-16,named in the funding announcement for the round in seeds/funding.csv
+ravical,Joris Van der Gucht,Co-founder and CEO,https://tech.eu/2026/10/29/ravical-raises-17m-to-break-the-link-between-accounting-firms-growth-and-hiring/,2026-11-16,named in the funding announcement for the round in seeds/funding.csv
+trashlab,Neil Chaudhary,Co-founder,https://trashlab.com/blog/trashlab-series-a,2026-11-16,named in the funding announcement for the round in seeds/funding.csv
+traversal,Anish Agarwal,Co-founder and CEO,https://siliconangle.com/2026/11/03/autonomous-site-reliability-engineering-startup-traversal-bags-120m-in-funding-at-a-1b-valuation/,2026-11-16,named in the funding announcement for the round in seeds/funding.csv

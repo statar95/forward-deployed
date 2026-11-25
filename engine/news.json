@@ -1,0 +1,978 @@
+{
+"companies": {
+"anduril": [
+{
+"date": "2026-09-29",
+"title": "Anduril and Voyager Establish Strategic Partnership Across Advanced Weapons and Propulsion",
+"url": "https://www.anduril.com/news/anduril-and-voyager-establish-strategic-partnership-across-advanced-weapons-and-propulsion"
+},
+{
+"date": "2026-09-23",
+"title": "Anduril Strengthens Security Partnership with Taiwan through Altius Milestones and Expanded Local Investment",
+"url": "https://www.anduril.com/news/anduril-strengthens-security-partnership-with-taiwan-through-altius-milestones-and-expanded-local-investment"
+},
+{
+"date": "2026-09-23",
+"title": "Barracuda Becomes First WOSA-Compliant Weapon in Large-Scale Production",
+"url": "https://www.anduril.com/news/barracuda-becomes-first-wosa-compliant-weapon-in-large-scale-production"
+},
+{
+"date": "2026-09-03",
+"title": "Hermeus Selects Anduril to Bring Mission Autonomy to High-Mach Flight",
+"url": "https://www.anduril.com/news/hermeus-selects-anduril-to-bring-mission-autonomy-to-high-mach-flight"
+},
+{
+"date": "2026-07-20",
+"title": "Introducing Thunder: Autonomous Attack Rotorcraft for the Near-Surface Fight",
+"url": "https://www.anduril.com/news/thunder"
+},
+{
+"date": "2026-07-15",
+"title": "Anduril, Department of War Sign Framework Agreement for Air-Launched Barracuda-500",
+"url": "https://www.anduril.com/news/anduril-department-of-war-sign-framework-agreement-for-air-launched-barracuda-500"
+},
+{
+"date": "2026-07-07",
+"title": "Anduril Secures First NATO Contract: Lattice for eAirC2 Data Platform Initiative",
+"url": "https://www.anduril.com/news/anduril-secures-first-nato-contract-lattice-for-eairc2-data-platform-initiative"
+},
+{
+"date": "2026-07-06",
+"title": "PGZ and Anduril to Produce Surface-Launched Barracuda-500M in Bydgoszcz",
+"url": "https://www.anduril.com/news/pgz-and-anduril-to-produce-surface-launched-barracuda-500m-in-bydgoszcz"
+},
+{
+"date": "2026-06-22",
+"title": "U.S. Army Selects Anduril to Lead Common Data Baseline to Scale Next Generation Command and Control",
+"url": "https://www.anduril.com/news/u-s-army-selects-anduril-to-lead-common-data-baseline-to-scale-next-generation-command-and-control"
+},
+{
+"date": "2026-06-17",
+"title": "Anduril Wins Production Contract for U.S. Air Force CCA Program",
+"url": "https://www.anduril.com/news/anduril-wins-production-contract-for-u-s-air-force-cca-program"
+},
+{
+"date": "2026-06-17",
+"title": "Introducing ArsenalOS\u2122: Anduril\u2019s Digital Manufacturing Backbone",
+"url": "https://www.anduril.com/news/introducing-arsenalos-tm-anduril-s-digital-manufacturing-backbone"
+},
+{
+"date": "2026-06-17",
+"title": "U.S. Air Force Selects Anduril to Bring Mission Autonomy to Collaborative Combat Aircraft",
+"url": "https://www.anduril.com/news/u-s-air-force-selects-anduril-to-bring-mission-autonomy-to-collaborative-combat-aircraft"
+},
+{
+"date": "2026-06-12",
+"title": "Anduril and U.S. Customs and Border Protection Expand Partnership With 200 Additional Extended Range Sentry Towers",
+"url": "https://www.anduril.com/news/anduril-and-u-s-customs-and-border-protection-expand-partnership-with-200-additional-extended-range-sentry-towers"
+}
+],
+"clay": [
+{
+"date": "2026-09-10",
+"title": "Clay raises $115M to be the AI growth engine for every company - The GTM with Clay Blog",
+"url": "https://www.clay.com/blog/series-d"
+},
+{
+"date": "2026-08-13",
+"title": "Introducing Clay Workflows - The GTM with Clay Blog",
+"url": "https://www.clay.com/blog/introducing-workflows"
+},
+{
+"date": "2026-07-29",
+"title": "Introducing Account Research Agents to Clay - The GTM with Clay Blog",
+"url": "https://www.clay.com/blog/account-research-agents"
+},
+{
+"date": "2026-07-29",
+"title": "GTM Engineering: What It Is and How to Hire in 2026 - The GTM with Clay Blog",
+"url": "https://www.clay.com/blog/gtm-engineering"
+},
+{
+"date": "2026-07-23",
+"title": "Introducing Clay's Agent Plugin - The GTM with Clay Blog",
+"url": "https://www.clay.com/blog/build-on-clay-with-agent-plugin"
+},
+{
+"date": "2026-07-16",
+"title": "Introducing Open-Weight Models to Claygent - The GTM with Clay Blog",
+"url": "https://www.clay.com/blog/open-weight-models-are-now-in-claygent"
+},
+{
+"date": "2026-06-03",
+"title": "Clay MCP is now available in Codex - The GTM with Clay Blog",
+"url": "https://www.clay.com/blog/mcp-in-codex"
+}
+],
+"coreweave": [
+{
+"date": "2026-09-29",
+"title": "Introducing CoreWeave ARIA: AI Research and Iteration Agent",
+"url": "https://wf.coreweave.com/blog/introducing-coreweave-aria-ai-research-and-iteration-agent"
+},
+{
+"date": "2026-09-24",
+"title": "The AI Loop: Launch Day Is Day One",
+"url": "https://wf.coreweave.com/blog/the-ai-loop-launch-day-is-day-one"
+},
+{
+"date": "2026-09-12",
+"title": "Why Open Models Can Win on Enterprise Cost and Control",
+"url": "https://wf.coreweave.com/blog/why-open-models-can-win-on-enterprise-cost-and-control"
+},
+{
+"date": "2026-09-12",
+"title": "Celebrating the One Billion Runs Milestone on Weights & Biases",
+"url": "https://wf.coreweave.com/blog/celebrating-the-one-billion-runs-milestone-on-weights-biases"
+},
+{
+"date": "2026-09-12",
+"title": "GLM 5.2 Now Available on CoreWeave Inference",
+"url": "https://wf.coreweave.com/blog/glm-5-2-now-available-on-coreweave-inference"
+},
+{
+"date": "2026-09-12",
+"title": "Kimi K2.7 Code Now Available on Serverless Inference with Leading Benchmark Price-Performance",
+"url": "https://wf.coreweave.com/blog/kimi-k2-7-code-now-available-on-serverless-inference-with-leading-benchmark-price-performance"
+},
+{
+"date": "2026-09-08",
+"title": "CoreWeave Announces New Capabilities to Simplify Cross-Cloud AI",
+"url": "https://wf.coreweave.com/blog/coreweave-announces-new-capabilities-to-simplify-cross-cloud-ai"
+},
+{
+"date": "2026-09-08",
+"title": "Set Your Data Free, No Egress Fees, No Catch: Introducing the CoreWeave Zero Egress Migration ([0]EM) Program",
+"url": "https://wf.coreweave.com/blog/set-your-data-free-no-egress-fees-no-catch-introducing-the-coreweave-zero-egress-migration-0em-program"
+},
+{
+"date": "2026-09-08",
+"title": "Expanding CoreWeave AI Object Storage: Unified Dataset, Lower Costs, and Unmatched Scale",
+"url": "https://wf.coreweave.com/blog/expanding-coreweave-ai-object-storage-unified-dataset-lower-costs-and-unmatched-scale"
+},
+{
+"date": "2026-09-08",
+"title": "Announcing Distributed AI on CoreWeave With Fully Managed Ray on Anyscale",
+"url": "https://wf.coreweave.com/blog/distributed-ai-on-coreweave-with-ray-anyscale"
+},
+{
+"date": "2026-09-08",
+"title": "CoreWeave Launches the First Generally Available NVIDIA RTX PRO 6000 Blackwell Server Instances",
+"url": "https://wf.coreweave.com/blog/coreweave-launches-the-first-generally-available-nvidia-rtx-pro-6000-blackwell-server-instances"
+}
+],
+"factory": [
+{
+"date": "2026-09-18",
+"title": "Introducing Flexible Deployment Options at Factory",
+"url": "https://factory.ai/news/factory-private"
+},
+{
+"date": "2026-09-15",
+"title": "Factory raises $200M at $5B valuation",
+"url": "https://factory.ai/news/5-billion-valuation"
+},
+{
+"date": "2026-09-09",
+"title": "Factory now available on Claude Marketplace, bringing autonomous software development to the enterprise",
+"url": "https://factory.ai/news/claude-marketplace"
+},
+{
+"date": "2026-08-31",
+"title": "Factory Expands to Japan",
+"url": "https://factory.ai/news/factory-japan"
+},
+{
+"date": "2026-08-19",
+"title": "The Software Factory: Enabled by Partners",
+"url": "https://factory.ai/news/factory-partner-network"
+},
+{
+"date": "2026-08-14",
+"title": "Launching the Factory Guild",
+"url": "https://factory.ai/news/factory-guild"
+},
+{
+"date": "2026-08-13",
+"title": "Introducing Agent Effectiveness",
+"url": "https://factory.ai/news/agent-effectiveness"
+},
+{
+"date": "2026-07-28",
+"title": "Factory joins the Open Secure AI Alliance",
+"url": "https://factory.ai/news/open-secure-ai-alliance"
+},
+{
+"date": "2026-06-11",
+"title": "Introducing Automated Security Review",
+"url": "https://factory.ai/news/automated-security-review"
+},
+{
+"date": "2026-06-10",
+"title": "Factory Expands to Sydney",
+"url": "https://factory.ai/news/factory-sydney"
+},
+{
+"date": "2026-06-08",
+"title": "Factory Appoints Marcello Gallo as Chief Revenue Officer",
+"url": "https://factory.ai/news/marcello-gallo-cro"
+}
+],
+"heidihealth": [
+{
+"date": "2026-09-21",
+"title": "Heidi secures US$340M to scale agents across health systems globally",
+"url": "https://www.heidihealth.com/blog/heidi-secures-us340m-to-scale-agents-across-health-systems-globally"
+},
+{
+"date": "2026-08-31",
+"title": "Heidi rolls out across Metro South Health: Our largest public health partnership in Australia",
+"url": "https://www.heidihealth.com/blog/heidi-rolls-out-across-metro-south-health"
+},
+{
+"date": "2026-07-22",
+"title": "VIDAL: Heidi Evidence Partner",
+"url": "https://www.heidihealth.com/blog/vidal-partner"
+}
+],
+"hippocraticai": [
+{
+"date": "2026-06-03",
+"title": "Hippocratic AI Launches Polaris 5.0: The First Evidence- based AI for Healthcare Proven to Outperform Major Frontier Models on Critical Medical Tasks and Safety",
+"url": "https://hippocraticai.com/hippocratic-ai-launches-polaris-5-0/"
+}
+],
+"incidentio": [
+{
+"date": "2026-08-05",
+"title": "Introducing Investigations, powered by Nexus.",
+"url": "https://incident.io/blog/introducing-investigations-powered-by-nexus"
+},
+{
+"date": "2026-07-09",
+"title": "Your genie is vanishing: introducing the Opsgenie rescue program",
+"url": "https://incident.io/blog/introducing-the-opsgenie-rescue-program"
+}
+],
+"langchain": [
+{
+"date": "2026-09-29",
+"title": "Jev is now available in LangSmith Evals",
+"url": "https://www.langchain.com/blog/jev-is-now-available-in-langsmith-evals"
+},
+{
+"date": "2026-09-24",
+"title": "Introducing LangSmith Fine-Tuning",
+"url": "https://www.langchain.com/blog/langsmith-fine-tuning"
+},
+{
+"date": "2026-09-17",
+"title": "Building an Agent Harness for Life Sciences: Introducing Deep Life Sci",
+"url": "https://www.langchain.com/blog/agent-harness-life-sciences"
+},
+{
+"date": "2026-08-26",
+"title": "Announcing LangGraph v0.1 & LangGraph Cloud: Running agents at scale, reliably",
+"url": "https://www.langchain.com/blog/langgraph-cloud"
+},
+{
+"date": "2026-08-26",
+"title": "Introducing Interrupt: The AI Agent Conference by LangChain",
+"url": "https://www.langchain.com/blog/introducing-interrupt-langchain-conference"
+},
+{
+"date": "2026-08-26",
+"title": "LangChain and NVIDIA Launch NemoClaw Deep Agents Blueprint",
+"url": "https://www.langchain.com/blog/langchain-and-nvidia-launch-the-nemoclaw-deep-agents-blueprint"
+},
+{
+"date": "2026-08-26",
+"title": "LangGraph Platform is now Generally Available: Deploy & manage long-running, stateful Agents",
+"url": "https://www.langchain.com/blog/langgraph-platform-ga"
+},
+{
+"date": "2026-08-26",
+"title": "LangChain raises $125M to build the platform for agent engineering",
+"url": "https://www.langchain.com/blog/series-b"
+},
+{
+"date": "2026-08-26",
+"title": "LangChain Announces Enterprise Agentic AI Platform Built with NVIDIA",
+"url": "https://www.langchain.com/blog/nvidia-enterprise"
+},
+{
+"date": "2026-08-26",
+"title": "Introducing Airbyte sources within LangChain",
+"url": "https://www.langchain.com/blog/introducing-airbyte-sources-within-langchain"
+},
+{
+"date": "2026-08-26",
+"title": "Announcing our $10M seed round led by Benchmark",
+"url": "https://www.langchain.com/blog/announcing-our-10m-seed-round-led-by-benchmark"
+},
+{
+"date": "2026-08-26",
+"title": "Introducing Pytest and Vitest integrations for LangSmith Evaluations",
+"url": "https://www.langchain.com/blog/pytest-and-vitest-for-langsmith-evals"
+},
+{
+"date": "2026-08-25",
+"title": "Introducing Rubrics: Build Agents that Evaluate and Correct Their Work",
+"url": "https://www.langchain.com/blog/introducing-rubrics-for-deepagents"
+},
+{
+"date": "2026-08-25",
+"title": "Workspaces in LangSmith for improved collaboration and organization",
+"url": "https://www.langchain.com/blog/workspaces-in-langsmith"
+},
+{
+"date": "2026-08-19",
+"title": "Introducing LangSmith Tuned Evaluators",
+"url": "https://www.langchain.com/blog/introducing-langsmith-tuned-evaluators-starting-with-perceived-error"
+}
+],
+"mistral": [
+{
+"date": "2026-09-10",
+"title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
+"url": "https://mistral.ai/news/mistral-x-cloudera/"
+},
+{
+"date": "2026-09-08",
+"title": "Mistral raises \u20ac3B to make sovereign, open-weight AI the technology frontier",
+"url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"
+},
+{
+"date": "2026-08-04",
+"title": "Introducing Shieldstral.",
+"url": "https://mistral.ai/news/shieldstral/"
+},
+{
+"date": "2026-07-08",
+"title": "Introducing Robostral Navigate",
+"url": "https://mistral.ai/news/robostral-navigate/"
+},
+{
+"date": "2026-06-23",
+"title": "Introducing Mistral OCR 4",
+"url": "https://mistral.ai/news/ocr-4/"
+}
+],
+"modal": [
+{
+"date": "2026-09-02",
+"title": "Modal is expanding in Europe with our new London office",
+"url": "https://modal.com/blog/modal-europe-expansion"
+},
+{
+"date": "2026-08-12",
+"title": "Qwen3.8-2.4T-A95B now available on Modal",
+"url": "https://modal.com/blog/qwen3-8-2-4t-a95b-now-available-on-modal"
+},
+{
+"date": "2026-07-27",
+"title": "Kimi K3 by Moonshot now available on Modal",
+"url": "https://modal.com/blog/kimi-k3-by-moonshot-now-available-on-modal"
+},
+{
+"date": "2026-07-15",
+"title": "Inkling by Thinking Machines now available on Modal",
+"url": "https://modal.com/blog/inkling-by-thinking-machines-labs-now-available-on-modal"
+},
+{
+"date": "2026-06-23",
+"title": "Introducing Modal Auto Endpoints: Optimized inference you actually own",
+"url": "https://modal.com/blog/introducing-auto-endpoints"
+}
+],
+"openai": [
+{
+"date": "2026-09-29",
+"title": "Introducing GPT-6.1 Sol",
+"url": "https://openai.com/index/introducing-gpt-6-1-sol"
+},
+{
+"date": "2026-09-29",
+"title": "Introducing dots",
+"url": "https://openai.com/index/introducing-dots"
+},
+{
+"date": "2026-09-28",
+"title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+"url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+},
+{
+"date": "2026-09-23",
+"title": "Introducing MentalHealthBench",
+"url": "https://openai.com/index/introducing-mentalhealthbench"
+},
+{
+"date": "2026-09-23",
+"title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+"url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan"
+},
+{
+"date": "2026-09-22",
+"title": "Introducing GPT-6 Sol and Luna",
+"url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+},
+{
+"date": "2026-09-21",
+"title": "Expanding OpenAI Academy with new learning paths",
+"url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths"
+},
+{
+"date": "2026-09-18",
+"title": "Introducing the Australian Youth Safety Blueprint",
+"url": "https://openai.com/index/australian-youth-safety-blueprint"
+},
+{
+"date": "2026-09-17",
+"title": "Introducing Astra for Law",
+"url": "https://openai.com/index/astra-for-law"
+},
+{
+"date": "2026-09-10",
+"title": "Introducing ChatGPT for Financial Services",
+"url": "https://openai.com/index/introducing-chatgpt-financial-services"
+},
+{
+"date": "2026-09-10",
+"title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+"url": "https://openai.com/index/expanding-ai-access-us-government"
+},
+{
+"date": "2026-09-10",
+"title": "Introducing the Agents API",
+"url": "https://openai.com/index/introducing-the-agents-api"
+},
+{
+"date": "2026-09-08",
+"title": "Introducing ChatGPT Images 2.5",
+"url": "https://openai.com/index/introducing-chatgpt-images-2-5"
+},
+{
+"date": "2026-09-08",
+"title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+"url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
+},
+{
+"date": "2026-08-31",
+"title": "A milestone in expanding access to AI",
+"url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+},
+{
+"date": "2026-08-28",
+"title": "Our decision on Cursor following its acquisition by SpaceX",
+"url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+},
+{
+"date": "2026-08-27",
+"title": "Expanding OpenAI\u2019s presence in Brazil",
+"url": "https://openai.com/index/expanding-our-presence-in-brazil"
+},
+{
+"date": "2026-08-25",
+"title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+"url": "https://openai.com/index/introducing-admin-plugin"
+},
+{
+"date": "2026-08-20",
+"title": "Introducing Intelligence Age",
+"url": "https://openai.com/index/introducing-intelligence-age"
+},
+{
+"date": "2026-08-20",
+"title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+"url": "https://openai.com/index/stampli"
+},
+{
+"date": "2026-08-19",
+"title": "Replit expands access to software creation with GPT-5.6 Luna",
+"url": "https://openai.com/index/replit"
+},
+{
+"date": "2026-08-18",
+"title": "ChatGPT Ads expands across Europe",
+"url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
+},
+{
+"date": "2026-08-18",
+"title": "Partnering with CodeAI to prepare the first AI generation",
+"url": "https://openai.com/index/partnering-with-codeai"
+},
+{
+"date": "2026-08-18",
+"title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+"url": "https://openai.com/index/chatgpt-for-teens"
+},
+{
+"date": "2026-08-13",
+"title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+"url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
+},
+{
+"date": "2026-08-11",
+"title": "Daybreak models are now available on AWS",
+"url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
+},
+{
+"date": "2026-08-10",
+"title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+"url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
+},
+{
+"date": "2026-08-06",
+"title": "Improving GPT\u20115.6 Sol in ChatGPT\u2014and expanding access to GPT-5.6 Luna for free users",
+"url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
+},
+{
+"date": "2026-07-27",
+"title": "How AI is expanding what people do at work",
+"url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
+},
+{
+"date": "2026-07-23",
+"title": "Launching Health in ChatGPT",
+"url": "https://openai.com/index/health-in-chatgpt"
+},
+{
+"date": "2026-07-22",
+"title": "Introducing OpenAI Presence",
+"url": "https://openai.com/index/introducing-openai-presence"
+},
+{
+"date": "2026-07-21",
+"title": "Introducing the ChatGPT for small business program",
+"url": "https://openai.com/index/introducing-chatgpt-small-business-program"
+},
+{
+"date": "2026-07-21",
+"title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+"url": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
+},
+{
+"date": "2026-07-16",
+"title": "How Codex became a collaborator for OpenAI\u2019s creative team",
+"url": "https://openai.com/index/codex-collaborator-creative-team"
+},
+{
+"date": "2026-07-09",
+"title": "ChatGPT is now a partner for your most ambitious work",
+"url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
+},
+{
+"date": "2026-07-08",
+"title": "Our approach to government and national security partnerships",
+"url": "https://openai.com/index/government-national-security-partnerships"
+},
+{
+"date": "2026-07-08",
+"title": "Introducing GPT-Live",
+"url": "https://openai.com/index/introducing-gpt-live"
+},
+{
+"date": "2026-06-30",
+"title": "How ChatGPT adoption has expanded",
+"url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
+},
+{
+"date": "2026-06-30",
+"title": "Introducing GeneBench-Pro",
+"url": "https://openai.com/index/introducing-genebench-pro"
+},
+{
+"date": "2026-06-28",
+"title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+"url": "https://openai.com/index/hp-frontier-partnership"
+},
+{
+"date": "2026-06-24",
+"title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+"url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
+},
+{
+"date": "2026-06-17",
+"title": "Introducing LifeSciBench",
+"url": "https://openai.com/index/introducing-life-sci-bench"
+},
+{
+"date": "2026-06-16",
+"title": "Predicting model behavior before release by simulating deployment",
+"url": "https://openai.com/index/deployment-simulation"
+},
+{
+"date": "2026-06-14",
+"title": "Introducing the OpenAI Partner Network",
+"url": "https://openai.com/index/introducing-openai-partner-network"
+},
+{
+"date": "2026-06-11",
+"title": "OpenAI to acquire Ona",
+"url": "https://openai.com/index/openai-to-acquire-ona"
+},
+{
+"date": "2026-06-08",
+"title": "Introducing the OpenAI Economic Research Exchange",
+"url": "https://openai.com/index/introducing-the-openai-economic-research-exchange"
+},
+{
+"date": "2026-06-03",
+"title": "Introducing new capabilities to GPT-Rosalind",
+"url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
+}
+],
+"quantexa": [
+{
+"date": "2026-08-18",
+"title": "Four Decades of Passion, Collaboration and Mentorship in the Fight Against Financial Crime",
+"url": "https://www.quantexa.com/blog/four-decades-of-passion-collaboration-and-mentorship-in-the-fight-against-financial-crime/"
+},
+{
+"date": "2026-07-01",
+"title": "Financial Crime Moves Faster Than Our Collaboration Model",
+"url": "https://www.quantexa.com/blog/financial-crime-moves-faster-than-our-collaboration-model/"
+}
+],
+"razorpay": [
+{
+"date": "2026-09-30",
+"title": "Introducing Apple Pay on Razorpay: A new way for India to Pay",
+"url": "https://razorpay.com/blog/introducing-apple-pay-on-razorpay-a-new-way-for-india-to-pay/"
+},
+{
+"date": "2026-09-29",
+"title": "How Much Does It Cost to Launch a D2C Brand in India in 2026? A Month-by-Month Breakdown",
+"url": "https://razorpay.com/blog/how-much-does-it-cost-to-launch-d2c-brand-india-2026/"
+}
+],
+"replit": [
+{
+"date": "2026-09-10",
+"title": "Replit | Databricks Integration is Now Generally Available with Native Lakebase Support",
+"url": "https://replit.com/blog/databricks2026"
+},
+{
+"date": "2026-08-18",
+"title": "Replit Introduces Free Mode to Expand What is Possible with AI",
+"url": "https://replit.com/blog/replit-introduces-free-mode"
+},
+{
+"date": "2026-07-29",
+"title": "Introducing Replit Design",
+"url": "https://replit.com/blog/introducing-replit-design"
+},
+{
+"date": "2026-06-17",
+"title": "Replit is now available in Claude",
+"url": "https://replit.com/blog/replit-claude"
+}
+],
+"retool": [
+{
+"date": "2026-06-15",
+"title": "Retool deepens Databricks partnership: Lakebase and Agent Bricks",
+"url": "https://retool.com/blog/retool-databricks-data-ai-summit-2026"
+}
+],
+"runpod": [
+{
+"date": "2026-09-25",
+"title": "Runpod Partners With Defined.ai for AI Development",
+"url": "https://www.runpod.io/blog/runpod-partners-with-definedai"
+},
+{
+"date": "2026-09-25",
+"title": "Worker | Local API Server Introduced with runpod-python 0.10.0",
+"url": "https://www.runpod.io/blog/worker-local-api-server-runpod-python"
+},
+{
+"date": "2026-09-25",
+"title": "Runpod Partners With Data Science Dojo for LLM Bootcamps",
+"url": "https://www.runpod.io/blog/runpod-data-science-dojo-llm-bootcamps"
+},
+{
+"date": "2026-09-25",
+"title": "Introducing Better Forge: Spin Up Stable Diffusion Pods Faster",
+"url": "https://www.runpod.io/blog/better-forge-stable-diffusion"
+},
+{
+"date": "2026-09-25",
+"title": "16k Context LLM Models Now Available On Runpod",
+"url": "https://www.runpod.io/blog/16k-context-llm-models-now-available-on-runpod"
+},
+{
+"date": "2026-09-13",
+"title": "The fix wasn't more compute: how we cut merge-queue CI time in half",
+"url": "https://www.runpod.io/blog/cut-merge-queue-ci-time"
+},
+{
+"date": "2026-09-13",
+"title": "Introducing the Runpod MCP Server for AI Assistants",
+"url": "https://www.runpod.io/blog/manage-your-runpod-infrastructure-from-any-ai-assistant-introducing-the-runpod-mcp-server"
+},
+{
+"date": "2026-09-13",
+"title": "Introducing Runpod Overdrive: Get More From Your Inference",
+"url": "https://www.runpod.io/blog/introducing-runpod-overdrive"
+},
+{
+"date": "2026-09-13",
+"title": "Announcing Runpod Flash",
+"url": "https://www.runpod.io/blog/flash-is-ga"
+},
+{
+"date": "2026-09-13",
+"title": "Wan 2.2 Releases With a Plethora Of New Features",
+"url": "https://www.runpod.io/blog/wan-2-2-releases-with-a-plethora-of-new-features"
+},
+{
+"date": "2026-09-13",
+"title": "Unveiling Kandinsky 2.1: The Revolutionary AI-Powered Art Generator",
+"url": "https://www.runpod.io/blog/kandinsky-2-1-ai-art-generator"
+},
+{
+"date": "2026-09-13",
+"title": "Stable Diffusion XL 1.0 Released And Available On Runpod",
+"url": "https://www.runpod.io/blog/stable-diffusion-xl-1-0-released-and-available-on-runpod"
+}
+],
+"sierra": [
+{
+"date": "2026-09-17",
+"title": "Sierra achieves AIUC-1 certification",
+"url": "https://sierra.ai/blog/sierra-achieves-aiuc-1-certification"
+},
+{
+"date": "2026-08-25",
+"title": "Sophisticated agents for the most demanding companies: Sierra launches in Korea",
+"url": "https://sierra.ai/blog/sierra-launches-in-korea"
+},
+{
+"date": "2026-08-20",
+"title": "Release governance: guardrails for agents at scale",
+"url": "https://sierra.ai/blog/release-governance-guardrails-for-agents-at-scale"
+},
+{
+"date": "2026-08-07",
+"title": "Introducing Voice Personas",
+"url": "https://sierra.ai/blog/introducing-voice-personas"
+},
+{
+"date": "2026-08-03",
+"title": "Plaid and Sierra partner to move AI agents from conversations to business outcomes",
+"url": "https://sierra.ai/blog/our-partnership-with-plaid"
+},
+{
+"date": "2026-07-29",
+"title": "Agency: Secure, scalable sandboxes for agents",
+"url": "https://sierra.ai/blog/agency-secure-scalable-sandboxes-for-agents"
+},
+{
+"date": "2026-07-23",
+"title": "We\u2019re excited to share that Sierra is acquiring Takeoff",
+"url": "https://sierra.ai/blog/sierra-acquires-takeoff"
+},
+{
+"date": "2026-07-14",
+"title": "Announcing our partnership with SoftBank Corp.",
+"url": "https://sierra.ai/blog/announcing-our-partnership-with-softbank-corp"
+},
+{
+"date": "2026-06-10",
+"title": "Certified FedRAMP\u00ae High",
+"url": "https://sierra.ai/blog/certified-fedramp-high"
+}
+],
+"sourcegraph": [
+{
+"date": "2026-09-14",
+"title": "Introducing Agentic Batch Changes: the frontier agent for code change at scale",
+"url": "https://sourcegraph.com/blog/introducing-agentic-batch-changes"
+}
+],
+"spellbook": [
+{
+"date": "2026-09-17",
+"title": "Introducing Comprehensive Reviews",
+"url": "https://spellbook.com/blog/introducing-comprehensive-reviews"
+},
+{
+"date": "2026-09-10",
+"title": "Introducing Spellbook for Google Docs",
+"url": "https://spellbook.com/blog/introducing-spellbook-for-google-docs"
+},
+{
+"date": "2026-09-10",
+"title": "Introducing Autonomous Contract Management",
+"url": "https://spellbook.com/blog/introducing-acm"
+},
+{
+"date": "2026-09-10",
+"title": "Introducing the Spellbook Legal Fellowship Fund",
+"url": "https://spellbook.com/blog/introducing-the-spellbook-legal-fellowship-fund"
+},
+{
+"date": "2026-09-10",
+"title": "Introducing Proofread",
+"url": "https://spellbook.com/blog/introducing-proofread"
+},
+{
+"date": "2026-09-10",
+"title": "Introducing The Legal AI Adoption Toolkit",
+"url": "https://spellbook.com/blog/introducing-the-legal-ai-adoption-toolkit"
+},
+{
+"date": "2026-09-02",
+"title": "Using Spellbook: Drafting Contract Provisions Effectively",
+"url": "https://spellbook.com/blog/how-i-use-spellbook-drafting-contract-provisions"
+},
+{
+"date": "2026-09-02",
+"title": "Using Spellbook: Crafting Email Contract Summaries",
+"url": "https://spellbook.com/blog/how-i-use-spellbook-creating-contract-summaries-for-emails"
+},
+{
+"date": "2026-08-25",
+"title": "Introducing Spellbook\u2019s iManage integration",
+"url": "https://spellbook.com/blog/introducing-spellbooks-imanage-integration"
+},
+{
+"date": "2026-08-25",
+"title": "Introducing Spellbook's 2026 State of Contracts Report",
+"url": "https://spellbook.com/blog/2026-state-of-contracts-report"
+},
+{
+"date": "2026-08-25",
+"title": "Introducing Compare to Market",
+"url": "https://spellbook.com/blog/introducing-compare-to-market"
+},
+{
+"date": "2026-08-25",
+"title": "Spellbook Partners with HeyCounsel",
+"url": "https://spellbook.com/blog/spellbook-partners-with-heycounsel"
+},
+{
+"date": "2026-08-25",
+"title": "Introducing Spellbook: AI Legal Assistant for Lawyers",
+"url": "https://spellbook.com/blog/spellbook-associate"
+},
+{
+"date": "2026-08-25",
+"title": "Spellbook Raises $50m Series B led by Khosla Ventures",
+"url": "https://spellbook.com/blog/series-b"
+},
+{
+"date": "2026-08-25",
+"title": "Free Spellbook Access for Law Schools Now Available",
+"url": "https://spellbook.com/blog/spellbook-is-now-free-for-law-schools"
+},
+{
+"date": "2026-08-25",
+"title": "Announcing Spellbook's SOC 2 Compliance",
+"url": "https://spellbook.com/blog/spellbook-soc2"
+},
+{
+"date": "2026-08-15",
+"title": "Introducing Spellbook's AI Document Editor",
+"url": "https://spellbook.com/blog/introducing-spellbooks-ai-document-editor"
+},
+{
+"date": "2026-08-13",
+"title": "Spellbook Secures $10.9M to Enhance AI Tools for Lawyers",
+"url": "https://spellbook.com/blog/spellbook-raises-10-9m-usd-in-funding"
+},
+{
+"date": "2026-08-13",
+"title": "Spellbook\u2019s Academic Partner Program Launches with 50+ Law Schools",
+"url": "https://spellbook.com/blog/academic-partner-program"
+},
+{
+"date": "2026-08-12",
+"title": "Spellbook Launches Channel Partner Program",
+"url": "https://spellbook.com/blog/introducing-spellbook-channel-partner-program"
+},
+{
+"date": "2026-08-05",
+"title": "Spellbook Secures $20M After 10x Revenue Surge & Global Growth",
+"url": "https://spellbook.com/blog/spellbook-raises-20m-following-10x-revenue-growth-and-global-expansion"
+}
+],
+"supabase": [
+{
+"date": "2026-09-09",
+"title": "Supabase is now available in Gemini Enterprise",
+"url": "https://supabase.com/blog/supabase-is-now-available-in-gemini-enterprise"
+},
+{
+"date": "2026-07-31",
+"title": "Introducing Supabase Evals",
+"url": "https://supabase.com/blog/introducing-supabase-evals"
+},
+{
+"date": "2026-06-04",
+"title": "Supabase Series F",
+"url": "https://supabase.com/blog/supabase-series-f"
+}
+],
+"tines": [
+{
+"date": "2026-09-03",
+"title": "Tines achieves TX-RAMP Level 2 certification",
+"url": "https://www.tines.com/blog/tines-achieves-tx-ramp-level-2-certification/"
+}
+],
+"togal": [
+{
+"date": "2026-06-22",
+"title": "Togal.AI Construction Takeoff Software Is SOC 2 Type II Compliant - Togal",
+"url": "https://www.togal.ai/blog/togalai-soc2-typeii-compliant"
+}
+],
+"togetherai": [
+{
+"date": "2026-09-11",
+"title": "Together AI expands fine-tuning service with more models, live metrics, and finer controls",
+"url": "https://www.together.ai/blog/together-ai-expands-fine-tuning-service-with-more-models-live-metrics-and-finer-controls"
+},
+{
+"date": "2026-09-10",
+"title": "Introducing preemptible compute: the same compute, half the price",
+"url": "https://www.together.ai/blog/introducing-preemptible-compute-the-same-compute-half-the-price"
+},
+{
+"date": "2026-07-29",
+"title": "Together AI announces strategic partnership with Moonshot AI to natively serve Kimi models",
+"url": "https://www.together.ai/blog/together-ai-announces-strategic-partnership-with-moonshot-ai-to-natively-serve-kimi-models"
+},
+{
+"date": "2026-07-20",
+"title": "Together AI and Y Combinator partner to launch the first dedicated GPU cluster for the YC community",
+"url": "https://www.together.ai/blog/together-yc-gpu-cluster"
+},
+{
+"date": "2026-07-01",
+"title": "Announcing our $800M Series C to accelerate the shift to open-source AI",
+"url": "https://www.together.ai/blog/announcing-our-series-c"
+},
+{
+"date": "2026-06-10",
+"title": "Building trust in enterprise AI: Together AI earns ISO 27001:2022 certification",
+"url": "https://www.together.ai/blog/iso-27001-2022-certification"
+}
+],
+"writer": [
+{
+"date": "2026-09-09",
+"title": "WRITER Unveils Enterprise Brain, the First Universal Context Layer to Power the Agentic Customer Journey",
+"url": "https://writer.com/blog/enterprise-brain-press-release/"
+},
+{
+"date": "2026-09-09",
+"title": "Introducing Enterprise Brain: The shared GTM context layer, for an always-on customer journey that\u2019s distinctly yours",
+"url": "https://writer.com/blog/enterprise-brain/"
+}
+]
+},
+"refreshed": "2026-09-30"
+}

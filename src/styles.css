@@ -1,0 +1,190 @@
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/* FDE Board: quiet index. Near-white paper, one ink, one accent, type does the work. */
+
+@theme inline {
+  --radius-sm: 2px;
+  --radius-md: 3px;
+  --radius-lg: 4px;
+  --radius-xl: 6px;
+  --radius-2xl: 8px;
+  --radius-3xl: 10px;
+  --radius-4xl: 12px;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-hairline: var(--hairline);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-surface: var(--surface);
+  --font-sans: "Instrument Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Instrument Serif", ui-serif, Georgia, serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+:root {
+  --radius: 3px;
+  --background: oklch(0.986 0.003 100);
+  --surface: oklch(0.968 0.004 100);
+  --foreground: oklch(0.2 0.008 250);
+  --card: oklch(0.995 0.003 100);
+  --card-foreground: oklch(0.2 0.018 235);
+  --popover: oklch(0.995 0.003 100);
+  --popover-foreground: oklch(0.2 0.018 235);
+  --primary: oklch(0.45 0.18 267);
+  --primary-foreground: oklch(0.99 0.005 100);
+  --secondary: oklch(0.935 0.028 94);
+  --secondary-foreground: oklch(0.2 0.018 235);
+  --muted: oklch(0.94 0.012 100);
+  --muted-foreground: oklch(0.52 0.01 250);
+  --accent: oklch(0.9 0.08 66);
+  --accent-foreground: oklch(0.2 0.018 235);
+  --destructive: oklch(0.68 0.17 25);
+  --destructive-foreground: oklch(0.99 0.005 100);
+  --border: oklch(0.9 0.006 100);
+  --hairline: oklch(0.94 0.004 100);
+  --input: oklch(0.78 0.02 100);
+  --ring: oklch(0.62 0.145 158);
+  --signal: oklch(0.62 0.145 158);
+  --sun: oklch(0.88 0.17 92);
+  --coral: oklch(0.72 0.14 45);
+  --atmosphere: linear-gradient(118deg, oklch(0.95 0.025 102) 0%, oklch(0.91 0.065 77) 57%, oklch(0.78 0.13 46) 100%);
+
+  /* Industry hues: the only real colour in the product. */
+  --ind-default: oklch(0.62 0.05 100);
+  --ind-construction: oklch(0.72 0.14 70);
+  --ind-healthcare: oklch(0.59 0.13 162);
+  --ind-life-sciences: oklch(0.63 0.14 140);
+  --ind-legal: oklch(0.55 0.11 315);
+  --ind-finance: oklch(0.62 0.13 118);
+  --ind-insurance: oklch(0.56 0.1 220);
+  --ind-government: oklch(0.54 0.1 255);
+  --ind-defence: oklch(0.57 0.14 35);
+  --ind-retail: oklch(0.61 0.16 10);
+  --ind-media: oklch(0.57 0.13 330);
+  --ind-manufacturing: oklch(0.67 0.13 62);
+  --ind-energy: oklch(0.69 0.15 95);
+  --ind-logistics: oklch(0.56 0.11 190);
+  --ind-telecoms: oklch(0.52 0.13 285);
+  --ind-education: oklch(0.64 0.14 42);
+  --ind-real-estate: oklch(0.56 0.1 174);
+  --ind-automotive: oklch(0.5 0.1 235);
+  --ind-horizontal: oklch(0.5 0.02 235);
+}
+
+@layer base {
+  * {
+    border-color: var(--color-hairline);
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    font-feature-settings: "cv05", "ss01";
+  }
+
+  h1,
+  h2 {
+    text-wrap: balance;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--ring);
+    outline-offset: 2px;
+  }
+
+  ::selection {
+    background: var(--ring);
+    color: var(--background);
+  }
+}
+
+@utility label-mono {
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.06em;
+  color: var(--muted-foreground);
+}
+
+@utility rule-grid {
+  background-image: linear-gradient(to right, var(--hairline) 1px, transparent 1px);
+  background-size: 100% 100%;
+}
+
+@utility tap {
+  min-height: 44px;
+}
+
+@utility font-display {
+  font-family: var(--font-display);
+}
+
+@utility atmosphere {
+  background: var(--atmosphere);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .signal-line {
+    animation: signal-shift 7s ease-in-out infinite alternate;
+  }
+}
+
+@keyframes signal-shift {
+  from { transform: translateX(-8%); }
+  to { transform: translateX(8%); }
+}
+
+/* The live dot: one slow ring, and nothing at all when the visitor asks for less motion. */
+@keyframes pulse-ring {
+  0% { transform: scale(1); opacity: 0.55; }
+  70% { transform: scale(2.6); opacity: 0; }
+  100% { transform: scale(2.6); opacity: 0; }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .pulse-ring {
+    animation: pulse-ring 2.6s cubic-bezier(0.22, 0.61, 0.36, 1) infinite;
+  }
+  .marquee-track {
+    animation: marquee 68s linear infinite;
+  }
+  .marquee:hover .marquee-track {
+    animation-play-state: paused;
+  }
+}
+
+/* Two identical tracks, so moving the pair by exactly half puts the copy where the original was. */
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+@utility scrollbar-none {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
